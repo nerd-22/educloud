@@ -30,19 +30,43 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+# Custom User Model - This needs to be at the top before INSTALLED_APPS
+AUTH_USER_MODEL = 'school_adding_users.SchoolUser'
+
 INSTALLED_APPS = [
     'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
+    'django.contrib.auth',    'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'rest_framework.authtoken',  # Add this line    'corsheaders',
+    'corsheaders',
     'apps.authentications',
     'apps.schools',
     'apps.system_settings',
+    'apps.schools_details',
+    'apps.school_adding_users.apps.SchoolAddingUsersConfig',
 ]
+
+# Authentication Settings
+AUTHENTICATION_BACKENDS = [
+    'apps.authentications.auth.CustomModelBackend',
+    'django.contrib.auth.backends.ModelBackend',
+]
+
+# Rest Framework Settings
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'apps.authentications.auth.CustomTokenAuthentication',
+        'rest_framework.authentication.SessionAuthentication',
+    ],
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated',
+    ],
+}
+
+# Custom Token Model
+AUTH_TOKEN_MODEL = 'school_adding_users.SchoolUserToken'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

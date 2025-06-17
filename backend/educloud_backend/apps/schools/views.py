@@ -67,7 +67,7 @@ class SchoolViewSet(viewsets.ModelViewSet):
     
     def get_serializer_context(self):
         context = super().get_serializer_context()
-        context['request'] = self.request
+        context.update({'request': self.request})
         return context
 
     def get_object(self):
@@ -242,6 +242,94 @@ class SchoolViewSet(viewsets.ModelViewSet):
                 {'error': 'School not found'},
                 status=status.HTTP_404_NOT_FOUND
             )
+
+    @action(detail=True, methods=['get'])
+    def get_administrators(self, request, school_code=None):
+        school = self.get_object()
+        page = int(request.query_params.get('page', 1))
+        per_page = int(request.query_params.get('per_page', 10))
+        start = (page - 1) * per_page
+        end = start + per_page
+        
+        administrators = school.administrators.all()[start:end]
+        total = school.administrators.count()
+        
+        serializer = SchoolAdminSerializer(administrators, many=True)
+        return Response({
+            'results': serializer.data,
+            'total': total
+        })
+
+    @action(detail=True, methods=['get'])
+    def get_invoices(self, request, school_code=None):
+        school = self.get_object()
+        page = int(request.query_params.get('page', 1))
+        per_page = int(request.query_params.get('per_page', 10))
+        start = (page - 1) * per_page
+        end = start + per_page
+        
+        invoices = school.invoices.all().order_by('-created_at')[start:end]
+        total = school.invoices.count()
+        
+        from apps.schools_details.serializers import InvoiceSerializer
+        serializer = InvoiceSerializer(invoices, many=True)
+        return Response({
+            'results': serializer.data,
+            'total': total
+        })
+
+    @action(detail=True, methods=['get'])
+    def get_communications(self, request, school_code=None):
+        school = self.get_object()
+        page = int(request.query_params.get('page', 1))
+        per_page = int(request.query_params.get('per_page', 10))
+        start = (page - 1) * per_page
+        end = start + per_page
+        
+        communications = school.communications.all().order_by('-sent_at')[start:end]
+        total = school.communications.count()
+        
+        from apps.schools_details.serializers import CommunicationSerializer
+        serializer = CommunicationSerializer(communications, many=True)
+        return Response({
+            'results': serializer.data,
+            'total': total
+        })
+
+    @action(detail=True, methods=['get'])
+    def get_documents(self, request, school_code=None):
+        school = self.get_object()
+        page = int(request.query_params.get('page', 1))
+        per_page = int(request.query_params.get('per_page', 10))
+        start = (page - 1) * per_page
+        end = start + per_page
+        
+        documents = school.documents.all().order_by('-created_at')[start:end]
+        total = school.documents.count()
+        
+        from apps.schools_details.serializers import SchoolDocumentSerializer
+        serializer = SchoolDocumentSerializer(documents, many=True)
+        return Response({
+            'results': serializer.data,
+            'total': total
+        })
+
+    @action(detail=True, methods=['post'])
+    def toggle_status(self, request, school_code=None):
+        school = self.get_object()
+        school.is_active = not school.is_active
+        school.save()
+        serializer = self.get_serializer(school)
+        return Response(serializer.data)
+
+    @action(detail=True, methods=['post'])
+    def reset_database(self, request, school_code=None):
+        school = self.get_object()
+        # Delete all related data
+        school.invoices.all().delete()
+        school.communications.all().delete()
+        school.documents.all().delete()
+        return Response({'status': 'success', 'message': 'Database reset successful'})
 
 class SchoolAdminViewSet(viewsets.ModelViewSet):
     queryset = SchoolAdmin.objects.all()

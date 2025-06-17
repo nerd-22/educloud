@@ -6,7 +6,7 @@ class SuperAdmin(AbstractUser):
     is_super_admin = models.BooleanField(default=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-    
+
     groups = models.ManyToManyField(
         'auth.Group',
         related_name='super_admin_set',
@@ -21,6 +21,9 @@ class SuperAdmin(AbstractUser):
         help_text='Specific permissions for this user.',
         verbose_name='user permissions',
     )
+
+    USERNAME_FIELD = 'email'
+    REQUIRED_FIELDS = ['username']
 
     class Meta:
         verbose_name = 'Super Admin'

@@ -65,12 +65,19 @@ class SchoolAdminTokenAuthentication(BaseAuthentication):
         if 'schools' in path_parts:
             try:
                 school_code_index = path_parts.index('schools') + 1
-                requested_school_code = path_parts[school_code_index]
-                logger.debug(f"Requested school code from URL: {requested_school_code}")
+                # Skip authentication for admin routes
+                if len(path_parts) > school_code_index and path_parts[school_code_index] == 'admins':
+                    logger.debug("Admin route detected, skipping school code validation")
+                    requested_school_code = None
+                else:
+                    requested_school_code = path_parts[school_code_index]
+                    logger.debug(f"Requested school code from URL: {requested_school_code}")
             except (IndexError, ValueError):
                 requested_school_code = None
+                logger.debug("No school code found in URL")
         else:
             requested_school_code = None
+            logger.debug("Not a school-specific route")
             
         try:
             token_obj = SchoolAdminToken.objects.select_related('user', 'user__school').get(key=token)
@@ -78,7 +85,7 @@ class SchoolAdminTokenAuthentication(BaseAuthentication):
                 logger.debug("User is not active")
                 return None
                 
-            # If this is a school-specific endpoint, verify school matches
+            # Only verify school matches for school-specific endpoints
             if requested_school_code and token_obj.user.school.school_code != requested_school_code:
                 logger.debug(f"Token school ({token_obj.user.school.school_code}) doesn't match requested school ({requested_school_code})")
                 return None

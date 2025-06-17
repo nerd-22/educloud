@@ -3747,3 +3747,1775 @@ DEBUG 2025-06-10 11:22:32,722 views 22248 14420 User: for test
 DEBUG 2025-06-10 11:22:32,722 views 22248 14420 Is authenticated: True
 DEBUG 2025-06-10 11:22:32,722 views 22248 14420 Is school admin: True
 DEBUG 2025-06-10 11:22:32,723 views 22248 14420 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+INFO 2025-06-13 09:53:47,472 autoreload 10304 12604 Watching for file changes with StatReloader
+DEBUG 2025-06-13 10:01:38,053 views 10304 13632 User: admin@educloud.com
+DEBUG 2025-06-13 10:01:38,071 views 10304 13632 Is authenticated: True
+DEBUG 2025-06-13 10:01:38,071 views 10304 13632 Auth header: None
+DEBUG 2025-06-13 10:01:38,071 views 10304 13632 Is super admin: True
+DEBUG 2025-06-13 10:01:38,071 views 10304 13632 Is school admin: False
+DEBUG 2025-06-13 10:01:38,337 views 10304 13632 User: admin@educloud.com
+DEBUG 2025-06-13 10:01:38,337 views 10304 13632 Is authenticated: True
+DEBUG 2025-06-13 10:01:38,337 views 10304 13632 Auth header: None
+DEBUG 2025-06-13 10:01:38,337 views 10304 13632 Is super admin: True
+DEBUG 2025-06-13 10:01:38,337 views 10304 13632 Is school admin: False
+DEBUG 2025-06-13 10:02:14,386 views 10304 12908 User: admin@educloud.com
+DEBUG 2025-06-13 10:02:14,386 views 10304 12908 Is authenticated: True
+DEBUG 2025-06-13 10:02:14,386 views 10304 12908 Auth header: None
+DEBUG 2025-06-13 10:02:14,386 views 10304 12908 Is super admin: True
+DEBUG 2025-06-13 10:02:14,386 views 10304 12908 Is school admin: False
+DEBUG 2025-06-13 10:02:14,419 views 10304 12908 User: admin@educloud.com
+DEBUG 2025-06-13 10:02:14,419 views 10304 12908 Is authenticated: True
+DEBUG 2025-06-13 10:02:14,420 views 10304 12908 Auth header: None
+DEBUG 2025-06-13 10:02:14,420 views 10304 12908 Is super admin: True
+DEBUG 2025-06-13 10:02:14,420 views 10304 12908 Is school admin: False
+DEBUG 2025-06-13 10:04:09,414 views 10304 7044 User: admin@educloud.com
+DEBUG 2025-06-13 10:04:09,414 views 10304 7044 Is authenticated: True
+DEBUG 2025-06-13 10:04:09,414 views 10304 7044 Auth header: None
+DEBUG 2025-06-13 10:04:09,414 views 10304 7044 Is super admin: True
+DEBUG 2025-06-13 10:04:09,414 views 10304 7044 Is school admin: False
+DEBUG 2025-06-13 10:04:09,465 views 10304 7044 User: admin@educloud.com
+DEBUG 2025-06-13 10:04:09,465 views 10304 7044 Is authenticated: True
+DEBUG 2025-06-13 10:04:09,465 views 10304 7044 Auth header: None
+DEBUG 2025-06-13 10:04:09,465 views 10304 7044 Is super admin: True
+DEBUG 2025-06-13 10:04:09,465 views 10304 7044 Is school admin: False
+INFO 2025-06-13 10:46:41,213 autoreload 10304 12604 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\urls.py changed, reloading.
+INFO 2025-06-13 10:47:29,402 autoreload 484 15800 Watching for file changes with StatReloader
+INFO 2025-06-13 11:45:36,680 autoreload 484 15800 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-13 11:45:54,186 autoreload 16036 14648 Watching for file changes with StatReloader
+DEBUG 2025-06-13 11:47:02,372 views 16036 15560 User: admin@educloud.com
+DEBUG 2025-06-13 11:47:02,372 views 16036 15560 Is authenticated: True
+DEBUG 2025-06-13 11:47:02,372 views 16036 15560 Auth header: None
+DEBUG 2025-06-13 11:47:02,385 views 16036 15560 Is super admin: True
+DEBUG 2025-06-13 11:47:02,387 views 16036 15560 Is school admin: False
+DEBUG 2025-06-13 11:47:02,517 views 16036 13464 User: admin@educloud.com
+DEBUG 2025-06-13 11:47:02,517 views 16036 13464 Is authenticated: True
+DEBUG 2025-06-13 11:47:02,517 views 16036 13464 Auth header: None
+DEBUG 2025-06-13 11:47:02,517 views 16036 13464 Is super admin: True
+DEBUG 2025-06-13 11:47:02,517 views 16036 13464 Is school admin: False
+DEBUG 2025-06-13 11:47:24,918 views 16036 13464 User: admin@educloud.com
+DEBUG 2025-06-13 11:47:24,918 views 16036 13464 Is authenticated: True
+DEBUG 2025-06-13 11:47:24,918 views 16036 13464 Auth header: None
+DEBUG 2025-06-13 11:47:24,918 views 16036 13464 Is super admin: True
+DEBUG 2025-06-13 11:47:24,933 views 16036 13464 Is school admin: False
+DEBUG 2025-06-13 11:47:24,952 views 16036 15560 User: admin@educloud.com
+DEBUG 2025-06-13 11:47:24,952 views 16036 15560 Is authenticated: True
+DEBUG 2025-06-13 11:47:24,952 views 16036 15560 Auth header: None
+DEBUG 2025-06-13 11:47:24,952 views 16036 15560 Is super admin: True
+DEBUG 2025-06-13 11:47:24,952 views 16036 15560 Is school admin: False
+DEBUG 2025-06-13 11:47:29,341 views 16036 15560 User: admin@educloud.com
+DEBUG 2025-06-13 11:47:29,341 views 16036 15560 Is authenticated: True
+DEBUG 2025-06-13 11:47:29,352 views 16036 15560 Auth header: None
+DEBUG 2025-06-13 11:47:29,352 views 16036 15560 Is super admin: True
+DEBUG 2025-06-13 11:47:29,352 views 16036 15560 Is school admin: False
+DEBUG 2025-06-13 11:47:29,385 views 16036 15560 User: admin@educloud.com
+DEBUG 2025-06-13 11:47:29,386 views 16036 15560 Is authenticated: True
+DEBUG 2025-06-13 11:47:29,387 views 16036 15560 Auth header: None
+DEBUG 2025-06-13 11:47:29,389 views 16036 15560 Is super admin: True
+DEBUG 2025-06-13 11:47:29,391 views 16036 15560 Is school admin: False
+INFO 2025-06-13 11:56:21,873 autoreload 16036 14648 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\models.py changed, reloading.
+INFO 2025-06-13 11:56:24,885 autoreload 7544 10612 Watching for file changes with StatReloader
+INFO 2025-06-13 11:57:19,043 autoreload 7544 10612 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\serializers.py changed, reloading.
+INFO 2025-06-13 11:57:21,295 autoreload 10792 15856 Watching for file changes with StatReloader
+INFO 2025-06-13 11:58:08,993 autoreload 10792 15856 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\views.py changed, reloading.
+INFO 2025-06-13 11:58:11,968 autoreload 15748 16264 Watching for file changes with StatReloader
+INFO 2025-06-13 12:05:57,448 autoreload 15748 16264 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\urls.py changed, reloading.
+INFO 2025-06-13 12:06:24,282 autoreload 15000 16152 Watching for file changes with StatReloader
+INFO 2025-06-13 12:07:23,968 autoreload 15000 16152 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\urls.py changed, reloading.
+INFO 2025-06-13 12:07:26,398 autoreload 15244 16256 Watching for file changes with StatReloader
+INFO 2025-06-13 12:10:00,404 autoreload 15244 16256 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\serializers.py changed, reloading.
+INFO 2025-06-13 12:10:04,174 autoreload 7512 12952 Watching for file changes with StatReloader
+DEBUG 2025-06-13 12:34:45,658 views 7512 17080 User: admin@educloud.com
+DEBUG 2025-06-13 12:34:46,156 views 7512 17080 Is authenticated: True
+DEBUG 2025-06-13 12:34:46,157 views 7512 17080 Auth header: None
+DEBUG 2025-06-13 12:34:46,159 views 7512 17080 Is super admin: True
+DEBUG 2025-06-13 12:34:46,163 views 7512 17080 Is school admin: False
+DEBUG 2025-06-13 12:35:05,816 views 7512 18196 User: admin@educloud.com
+DEBUG 2025-06-13 12:35:05,817 views 7512 18196 Is authenticated: True
+DEBUG 2025-06-13 12:35:05,827 views 7512 18196 Auth header: None
+DEBUG 2025-06-13 12:35:05,830 views 7512 18196 Is super admin: True
+DEBUG 2025-06-13 12:35:05,837 views 7512 18196 Is school admin: False
+DEBUG 2025-06-13 12:35:16,684 views 7512 17080 User: admin@educloud.com
+DEBUG 2025-06-13 12:35:16,697 views 7512 17080 Is authenticated: True
+DEBUG 2025-06-13 12:35:16,698 views 7512 17080 Auth header: None
+DEBUG 2025-06-13 12:35:16,699 views 7512 17080 Is super admin: True
+DEBUG 2025-06-13 12:35:16,701 views 7512 17080 Is school admin: False
+DEBUG 2025-06-13 12:35:16,776 views 7512 17080 User: admin@educloud.com
+DEBUG 2025-06-13 12:35:16,777 views 7512 17080 Is authenticated: True
+DEBUG 2025-06-13 12:35:16,777 views 7512 17080 Auth header: None
+DEBUG 2025-06-13 12:35:16,778 views 7512 17080 Is super admin: True
+DEBUG 2025-06-13 12:35:16,778 views 7512 17080 Is school admin: False
+DEBUG 2025-06-13 12:35:50,682 views 7512 18800 User: admin@educloud.com
+DEBUG 2025-06-13 12:36:00,255 views 7512 18800 Is authenticated: True
+DEBUG 2025-06-13 12:36:00,259 views 7512 18800 Auth header: None
+DEBUG 2025-06-13 12:36:00,262 views 7512 18800 Is super admin: True
+DEBUG 2025-06-13 12:36:00,263 views 7512 18800 Is school admin: False
+DEBUG 2025-06-13 12:36:00,290 views 7512 18800 User: admin@educloud.com
+DEBUG 2025-06-13 12:36:00,293 views 7512 18800 Is authenticated: True
+DEBUG 2025-06-13 12:36:00,295 views 7512 18800 Auth header: None
+DEBUG 2025-06-13 12:36:00,295 views 7512 18800 Is super admin: True
+DEBUG 2025-06-13 12:36:00,296 views 7512 18800 Is school admin: False
+DEBUG 2025-06-13 19:06:40,887 views 7512 11384 User: admin@educloud.com
+DEBUG 2025-06-13 19:06:40,915 views 7512 11384 Is authenticated: True
+DEBUG 2025-06-13 19:06:40,918 views 7512 11384 Auth header: None
+DEBUG 2025-06-13 19:06:40,920 views 7512 11384 Is super admin: True
+DEBUG 2025-06-13 19:06:40,921 views 7512 11384 Is school admin: False
+DEBUG 2025-06-13 19:06:41,202 views 7512 11384 User: admin@educloud.com
+DEBUG 2025-06-13 19:06:41,203 views 7512 11384 Is authenticated: True
+DEBUG 2025-06-13 19:06:41,204 views 7512 11384 Auth header: None
+DEBUG 2025-06-13 19:06:41,205 views 7512 11384 Is super admin: True
+DEBUG 2025-06-13 19:06:41,206 views 7512 11384 Is school admin: False
+DEBUG 2025-06-13 19:07:37,210 views 7512 6568 User: admin@educloud.com
+DEBUG 2025-06-13 19:07:37,210 views 7512 6568 Is authenticated: True
+DEBUG 2025-06-13 19:07:37,210 views 7512 6568 Auth header: None
+DEBUG 2025-06-13 19:07:37,210 views 7512 6568 Is super admin: True
+DEBUG 2025-06-13 19:07:37,210 views 7512 6568 Is school admin: False
+DEBUG 2025-06-13 19:07:37,246 views 7512 6568 User: admin@educloud.com
+DEBUG 2025-06-13 19:07:37,261 views 7512 6568 Is authenticated: True
+DEBUG 2025-06-13 19:07:37,263 views 7512 6568 Auth header: None
+DEBUG 2025-06-13 19:07:37,264 views 7512 6568 Is super admin: True
+DEBUG 2025-06-13 19:07:37,267 views 7512 6568 Is school admin: False
+DEBUG 2025-06-13 19:19:58,567 views 7512 12412 User: admin@educloud.com
+DEBUG 2025-06-13 19:19:58,587 views 7512 12412 Is authenticated: True
+DEBUG 2025-06-13 19:19:58,589 views 7512 12412 Auth header: None
+DEBUG 2025-06-13 19:19:58,590 views 7512 12412 Is super admin: True
+DEBUG 2025-06-13 19:19:58,611 views 7512 12412 Is school admin: False
+DEBUG 2025-06-13 19:19:58,696 views 7512 2532 User: admin@educloud.com
+DEBUG 2025-06-13 19:19:58,696 views 7512 2532 Is authenticated: True
+DEBUG 2025-06-13 19:19:58,696 views 7512 2532 Auth header: None
+DEBUG 2025-06-13 19:19:58,696 views 7512 2532 Is super admin: True
+DEBUG 2025-06-13 19:19:58,696 views 7512 2532 Is school admin: False
+DEBUG 2025-06-13 19:24:18,487 views 7512 21192 User: admin@educloud.com
+DEBUG 2025-06-13 19:24:18,487 views 7512 21192 Is authenticated: True
+DEBUG 2025-06-13 19:24:18,487 views 7512 21192 Auth header: None
+DEBUG 2025-06-13 19:24:18,487 views 7512 21192 Is super admin: True
+DEBUG 2025-06-13 19:24:18,487 views 7512 21192 Is school admin: False
+DEBUG 2025-06-13 19:24:20,318 views 7512 19624 User: admin@educloud.com
+DEBUG 2025-06-13 19:24:20,318 views 7512 19624 Is authenticated: True
+DEBUG 2025-06-13 19:24:20,318 views 7512 19624 Auth header: None
+DEBUG 2025-06-13 19:24:20,318 views 7512 19624 Is super admin: True
+DEBUG 2025-06-13 19:24:20,333 views 7512 19624 Is school admin: False
+INFO 2025-06-13 21:29:55,441 autoreload 3080 7048 Watching for file changes with StatReloader
+DEBUG 2025-06-13 21:49:33,080 auth 3080 15008 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:33,082 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:33,115 auth 3080 15008 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:33,116 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:33,124 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:49:33,998 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,009 auth 3080 15008 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,025 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:34,027 auth 3080 15008 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:34,028 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:34,028 auth 3080 15008 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:34,028 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,041 auth 3080 15008 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,052 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,087 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:34,089 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:34,096 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,131 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:34,132 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:34,142 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,399 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:34,402 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:34,403 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,410 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:34,411 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:49:34,411 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:49:34,598 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:49:34,599 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:49:34,606 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:35,499 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:35,504 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:49:35,511 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:49:35,540 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:49:35,542 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:49:35,548 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:49:35,552 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:49:35,557 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:49:35,562 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:49:48,381 auth 3080 10184 Received Authorization header: 
+DEBUG 2025-06-13 21:49:48,384 auth 3080 10184 No Authorization header found
+DEBUG 2025-06-13 21:49:48,402 auth 3080 10184 Received Authorization header: 
+DEBUG 2025-06-13 21:49:48,407 auth 3080 10184 No Authorization header found
+DEBUG 2025-06-13 21:49:52,375 auth 3080 10184 Received Authorization header: 
+DEBUG 2025-06-13 21:49:52,440 auth 3080 10184 No Authorization header found
+DEBUG 2025-06-13 21:49:55,168 auth 3080 10184 Found school admin for authentication: for test
+DEBUG 2025-06-13 21:49:57,712 auth 3080 10184 School admin password check successful
+DEBUG 2025-06-13 21:49:57,712 views 3080 10184 Login attempt for school SCH-99F78095
+DEBUG 2025-06-13 21:49:59,850 views 3080 10184 User authenticated: for test
+DEBUG 2025-06-13 21:50:01,816 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:01,817 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:01,819 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:01,964 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:01,965 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:01,967 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:01,968 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:01,972 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:01,973 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:01,999 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:01,999 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:02,001 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:02,008 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:02,016 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:02,018 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:02,019 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:02,022 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:02,024 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:32,810 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:32,811 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:32,814 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:33,996 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:34,049 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:34,051 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:34,061 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:34,062 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:34,063 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:41,825 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:41,826 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:41,827 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:41,839 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:41,839 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:41,839 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:41,845 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:41,847 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:41,851 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:44,979 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:44,980 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:44,983 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:44,991 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:44,991 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:44,995 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:44,998 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:44,999 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:45,003 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:46,887 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:46,890 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:46,894 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:46,905 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:46,906 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:46,907 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:46,911 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:46,912 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:46,913 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:48,350 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:48,354 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:48,357 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:48,372 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:48,380 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:48,381 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:48,385 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:48,386 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:48,387 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:59,873 auth 3080 10184 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-13 21:50:59,873 auth 3080 10184 Processing token: 30bcd61afe...
+DEBUG 2025-06-13 21:50:59,877 auth 3080 10184 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-13 21:50:59,889 auth 3080 10184 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-13 21:50:59,890 views 3080 10184 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-13 21:50:59,891 views 3080 10184 User: for test
+DEBUG 2025-06-13 21:50:59,893 views 3080 10184 Is authenticated: True
+DEBUG 2025-06-13 21:50:59,895 views 3080 10184 Is school admin: True
+DEBUG 2025-06-13 21:50:59,896 views 3080 10184 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 10:46:33,035 views 3080 440 User: admin@educloud.com
+DEBUG 2025-06-14 10:46:33,117 views 3080 440 Is authenticated: True
+DEBUG 2025-06-14 10:46:33,117 views 3080 440 Auth header: None
+DEBUG 2025-06-14 10:46:33,531 views 3080 440 Is super admin: True
+DEBUG 2025-06-14 10:46:33,534 views 3080 440 Is school admin: False
+DEBUG 2025-06-14 10:46:34,189 views 3080 19916 User: admin@educloud.com
+DEBUG 2025-06-14 10:46:34,190 views 3080 19916 Is authenticated: True
+DEBUG 2025-06-14 10:46:34,191 views 3080 19916 Auth header: None
+DEBUG 2025-06-14 10:46:34,191 views 3080 19916 Is super admin: True
+DEBUG 2025-06-14 10:46:34,192 views 3080 19916 Is school admin: False
+INFO 2025-06-14 11:27:22,489 autoreload 21488 17080 Watching for file changes with StatReloader
+DEBUG 2025-06-14 11:32:53,432 views 21488 21592 User: admin@educloud.com
+DEBUG 2025-06-14 11:32:53,532 views 21488 21592 Is authenticated: True
+DEBUG 2025-06-14 11:32:53,532 views 21488 21592 Auth header: None
+DEBUG 2025-06-14 11:32:53,532 views 21488 21592 Is super admin: True
+DEBUG 2025-06-14 11:32:53,532 views 21488 21592 Is school admin: False
+DEBUG 2025-06-14 11:32:53,871 views 21488 16072 User: admin@educloud.com
+DEBUG 2025-06-14 11:32:53,871 views 21488 16072 Is authenticated: True
+DEBUG 2025-06-14 11:32:53,921 views 21488 16072 Auth header: None
+DEBUG 2025-06-14 11:32:53,921 views 21488 16072 Is super admin: True
+DEBUG 2025-06-14 11:32:53,924 views 21488 16072 Is school admin: False
+INFO 2025-06-14 12:34:30,466 autoreload 21488 17080 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\views.py changed, reloading.
+INFO 2025-06-14 12:34:46,838 autoreload 15060 10516 Watching for file changes with StatReloader
+INFO 2025-06-14 12:45:14,552 autoreload 15060 10516 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\views.py changed, reloading.
+INFO 2025-06-14 12:45:27,098 autoreload 5344 10272 Watching for file changes with StatReloader
+INFO 2025-06-14 13:08:21,186 autoreload 5344 10272 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\views.py changed, reloading.
+INFO 2025-06-14 13:08:57,989 autoreload 20796 16696 Watching for file changes with StatReloader
+INFO 2025-06-14 13:10:46,826 autoreload 20796 16696 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\views.py changed, reloading.
+INFO 2025-06-14 13:11:05,356 autoreload 12228 14864 Watching for file changes with StatReloader
+INFO 2025-06-14 13:11:26,846 autoreload 12228 14864 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\urls.py changed, reloading.
+INFO 2025-06-14 13:11:30,706 autoreload 22272 4680 Watching for file changes with StatReloader
+DEBUG 2025-06-14 13:24:25,163 views 22272 17736 User: admin@educloud.com
+DEBUG 2025-06-14 13:24:25,196 views 22272 17736 Is authenticated: True
+DEBUG 2025-06-14 13:24:25,196 views 22272 17736 Auth header: None
+DEBUG 2025-06-14 13:24:25,196 views 22272 17736 Is super admin: True
+DEBUG 2025-06-14 13:24:25,196 views 22272 17736 Is school admin: False
+DEBUG 2025-06-14 13:24:25,555 views 22272 20300 User: admin@educloud.com
+DEBUG 2025-06-14 13:24:25,587 views 22272 20300 Is authenticated: True
+DEBUG 2025-06-14 13:24:25,601 views 22272 20300 Auth header: None
+DEBUG 2025-06-14 13:24:25,601 views 22272 20300 Is super admin: True
+DEBUG 2025-06-14 13:24:25,601 views 22272 20300 Is school admin: False
+INFO 2025-06-14 13:29:39,865 autoreload 22272 4680 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\actions.py changed, reloading.
+INFO 2025-06-14 13:29:44,307 autoreload 19796 13644 Watching for file changes with StatReloader
+DEBUG 2025-06-14 13:31:28,434 views 19796 19200 User: admin@educloud.com
+DEBUG 2025-06-14 13:31:28,434 views 19796 19200 Is authenticated: True
+DEBUG 2025-06-14 13:31:28,434 views 19796 19200 Auth header: None
+DEBUG 2025-06-14 13:31:28,450 views 19796 19200 Is super admin: True
+DEBUG 2025-06-14 13:31:28,450 views 19796 19200 Is school admin: False
+DEBUG 2025-06-14 13:31:28,503 views 19796 19200 User: admin@educloud.com
+DEBUG 2025-06-14 13:31:28,503 views 19796 19200 Is authenticated: True
+DEBUG 2025-06-14 13:31:28,503 views 19796 19200 Auth header: None
+DEBUG 2025-06-14 13:31:28,503 views 19796 19200 Is super admin: True
+DEBUG 2025-06-14 13:31:28,503 views 19796 19200 Is school admin: False
+INFO 2025-06-14 13:33:59,217 autoreload 19796 13644 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\views.py changed, reloading.
+INFO 2025-06-14 13:34:01,642 autoreload 7780 21480 Watching for file changes with StatReloader
+INFO 2025-06-14 13:35:48,046 autoreload 7780 21480 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\views.py changed, reloading.
+INFO 2025-06-14 13:35:50,767 autoreload 11952 15244 Watching for file changes with StatReloader
+INFO 2025-06-14 13:38:11,621 autoreload 11952 15244 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\actions.py changed, reloading.
+INFO 2025-06-14 13:38:30,185 autoreload 22456 17968 Watching for file changes with StatReloader
+INFO 2025-06-14 13:42:01,514 autoreload 22456 17968 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\views.py changed, reloading.
+INFO 2025-06-14 13:42:04,347 autoreload 18648 836 Watching for file changes with StatReloader
+INFO 2025-06-14 13:42:30,335 autoreload 18648 836 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\views.py changed, reloading.
+INFO 2025-06-14 13:42:33,736 autoreload 22452 20204 Watching for file changes with StatReloader
+INFO 2025-06-14 13:50:42,522 autoreload 22452 20204 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\views.py changed, reloading.
+INFO 2025-06-14 13:50:50,141 autoreload 17056 19332 Watching for file changes with StatReloader
+DEBUG 2025-06-14 15:34:30,812 views 17056 22508 User: admin@educloud.com
+DEBUG 2025-06-14 15:34:31,496 views 17056 22508 Is authenticated: True
+DEBUG 2025-06-14 15:34:31,497 views 17056 22508 Auth header: None
+DEBUG 2025-06-14 15:34:31,498 views 17056 22508 Is super admin: True
+DEBUG 2025-06-14 15:34:31,498 views 17056 22508 Is school admin: False
+DEBUG 2025-06-14 15:34:32,553 views 17056 21752 User: admin@educloud.com
+DEBUG 2025-06-14 15:34:32,553 views 17056 21752 Is authenticated: True
+DEBUG 2025-06-14 15:34:32,555 views 17056 21752 Auth header: None
+DEBUG 2025-06-14 15:34:32,555 views 17056 21752 Is super admin: True
+DEBUG 2025-06-14 15:34:32,556 views 17056 21752 Is school admin: False
+DEBUG 2025-06-14 15:34:51,261 views 17056 21752 User: admin@educloud.com
+DEBUG 2025-06-14 15:34:51,262 views 17056 21752 Is authenticated: True
+DEBUG 2025-06-14 15:34:51,264 views 17056 21752 Auth header: None
+DEBUG 2025-06-14 15:34:51,268 views 17056 21752 Is super admin: True
+DEBUG 2025-06-14 15:34:51,269 views 17056 21752 Is school admin: False
+DEBUG 2025-06-14 15:34:51,293 views 17056 21752 User: admin@educloud.com
+DEBUG 2025-06-14 15:34:51,293 views 17056 21752 Is authenticated: True
+DEBUG 2025-06-14 15:34:51,293 views 17056 21752 Auth header: None
+DEBUG 2025-06-14 15:34:51,293 views 17056 21752 Is super admin: True
+DEBUG 2025-06-14 15:34:51,293 views 17056 21752 Is school admin: False
+INFO 2025-06-14 15:35:13,152 autoreload 17056 19332 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools_details\views.py changed, reloading.
+INFO 2025-06-14 15:35:34,283 autoreload 7448 17368 Watching for file changes with StatReloader
+DEBUG 2025-06-14 15:36:33,983 views 7448 18928 User: admin@educloud.com
+DEBUG 2025-06-14 15:36:33,984 views 7448 18928 Is authenticated: True
+DEBUG 2025-06-14 15:36:33,986 views 7448 18928 Auth header: None
+DEBUG 2025-06-14 15:36:33,987 views 7448 18928 Is super admin: True
+DEBUG 2025-06-14 15:36:33,995 views 7448 18928 Is school admin: False
+DEBUG 2025-06-14 15:36:34,093 views 7448 10888 User: admin@educloud.com
+DEBUG 2025-06-14 15:36:34,098 views 7448 10888 Is authenticated: True
+DEBUG 2025-06-14 15:36:34,099 views 7448 10888 Auth header: None
+DEBUG 2025-06-14 15:36:34,100 views 7448 10888 Is super admin: True
+DEBUG 2025-06-14 15:36:34,101 views 7448 10888 Is school admin: False
+DEBUG 2025-06-14 15:36:44,202 views 7448 2672 User: admin@educloud.com
+DEBUG 2025-06-14 15:36:44,424 views 7448 2672 Is authenticated: True
+DEBUG 2025-06-14 15:36:44,424 views 7448 2672 Auth header: None
+DEBUG 2025-06-14 15:36:44,424 views 7448 2672 Is super admin: True
+DEBUG 2025-06-14 15:36:44,440 views 7448 2672 Is school admin: False
+DEBUG 2025-06-14 15:36:44,461 views 7448 2672 User: admin@educloud.com
+DEBUG 2025-06-14 15:36:44,570 views 7448 2672 Is authenticated: True
+DEBUG 2025-06-14 15:36:44,574 views 7448 2672 Auth header: None
+DEBUG 2025-06-14 15:36:44,574 views 7448 2672 Is super admin: True
+DEBUG 2025-06-14 15:36:44,578 views 7448 2672 Is school admin: False
+DEBUG 2025-06-14 15:36:58,357 views 7448 16668 User: admin@educloud.com
+DEBUG 2025-06-14 15:36:58,357 views 7448 16668 Is authenticated: True
+DEBUG 2025-06-14 15:36:58,357 views 7448 16668 Auth header: None
+DEBUG 2025-06-14 15:36:58,357 views 7448 16668 Is super admin: True
+DEBUG 2025-06-14 15:36:58,371 views 7448 16668 Is school admin: False
+DEBUG 2025-06-14 15:36:58,400 views 7448 16668 User: admin@educloud.com
+DEBUG 2025-06-14 15:36:58,400 views 7448 16668 Is authenticated: True
+DEBUG 2025-06-14 15:36:58,410 views 7448 16668 Auth header: None
+DEBUG 2025-06-14 15:36:58,411 views 7448 16668 Is super admin: True
+DEBUG 2025-06-14 15:36:58,412 views 7448 16668 Is school admin: False
+DEBUG 2025-06-14 15:45:35,999 auth 7448 13264 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:35,999 auth 7448 11616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:35,999 auth 7448 13264 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:36,049 auth 7448 11616 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:36,069 auth 7448 11616 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-14 15:45:36,177 auth 7448 13264 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:36,178 auth 7448 11616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:36,183 views 7448 11616 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-14 15:45:36,201 views 7448 11616 User: for test
+DEBUG 2025-06-14 15:45:36,201 views 7448 11616 Is authenticated: True
+DEBUG 2025-06-14 15:45:36,201 views 7448 11616 Is school admin: True
+DEBUG 2025-06-14 15:45:36,201 views 7448 11616 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:36,216 auth 7448 13264 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:36,216 auth 7448 13264 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:36,232 auth 7448 13264 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:36,250 auth 7448 11616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:36,250 auth 7448 13264 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:36,279 auth 7448 11616 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:36,285 auth 7448 13264 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:36,289 auth 7448 13264 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-14 15:45:36,293 auth 7448 11616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:36,300 auth 7448 13264 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:36,302 views 7448 13264 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-14 15:45:36,306 views 7448 13264 User: for test
+DEBUG 2025-06-14 15:45:36,306 views 7448 13264 Is authenticated: True
+DEBUG 2025-06-14 15:45:36,308 views 7448 13264 Is school admin: True
+DEBUG 2025-06-14 15:45:36,309 views 7448 13264 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:36,437 auth 7448 11616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:36,437 auth 7448 11616 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:36,450 auth 7448 11616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:38,656 auth 7448 11616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:38,656 auth 7448 11616 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:38,656 auth 7448 11616 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-14 15:45:38,672 auth 7448 11616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:38,672 views 7448 11616 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-14 15:45:38,779 views 7448 11616 User: for test
+DEBUG 2025-06-14 15:45:38,781 views 7448 11616 Is authenticated: True
+DEBUG 2025-06-14 15:45:38,784 views 7448 11616 Is school admin: True
+DEBUG 2025-06-14 15:45:38,785 views 7448 11616 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:38,803 auth 7448 11616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:38,804 auth 7448 11616 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:38,805 auth 7448 11616 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-14 15:45:38,811 auth 7448 11616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:38,812 views 7448 11616 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-14 15:45:38,813 views 7448 11616 User: for test
+DEBUG 2025-06-14 15:45:38,819 views 7448 11616 Is authenticated: True
+DEBUG 2025-06-14 15:45:38,819 views 7448 11616 Is school admin: True
+DEBUG 2025-06-14 15:45:38,822 views 7448 11616 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:39,567 auth 7448 11616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:39,567 auth 7448 11616 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:39,567 auth 7448 11616 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-14 15:45:39,583 auth 7448 11616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:39,583 views 7448 11616 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-14 15:45:39,583 views 7448 11616 User: for test
+DEBUG 2025-06-14 15:45:39,583 views 7448 11616 Is authenticated: True
+DEBUG 2025-06-14 15:45:39,583 views 7448 11616 Is school admin: True
+DEBUG 2025-06-14 15:45:39,583 views 7448 11616 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:39,633 auth 7448 11616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:45:39,633 auth 7448 11616 Processing token: 30bcd61afe...
+DEBUG 2025-06-14 15:45:39,655 auth 7448 11616 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-14 15:45:39,665 auth 7448 11616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-14 15:45:39,667 views 7448 11616 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-14 15:45:39,668 views 7448 11616 User: for test
+DEBUG 2025-06-14 15:45:39,672 views 7448 11616 Is authenticated: True
+DEBUG 2025-06-14 15:45:39,673 views 7448 11616 Is school admin: True
+DEBUG 2025-06-14 15:45:39,674 views 7448 11616 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-14 15:50:29,370 views 7448 12088 User: admin@educloud.com
+DEBUG 2025-06-14 15:50:29,370 views 7448 12088 Is authenticated: True
+DEBUG 2025-06-14 15:50:29,370 views 7448 12088 Auth header: None
+DEBUG 2025-06-14 15:50:29,388 views 7448 12088 Is super admin: True
+DEBUG 2025-06-14 15:50:29,390 views 7448 12088 Is school admin: False
+DEBUG 2025-06-14 15:50:29,430 views 7448 12088 User: admin@educloud.com
+DEBUG 2025-06-14 15:50:29,430 views 7448 12088 Is authenticated: True
+DEBUG 2025-06-14 15:50:29,432 views 7448 12088 Auth header: None
+DEBUG 2025-06-14 15:50:29,436 views 7448 12088 Is super admin: True
+DEBUG 2025-06-14 15:50:29,439 views 7448 12088 Is school admin: False
+DEBUG 2025-06-14 16:16:13,453 views 7448 1508 User: admin@educloud.com
+DEBUG 2025-06-14 16:16:13,525 views 7448 1508 Is authenticated: True
+DEBUG 2025-06-14 16:16:13,540 views 7448 1508 Auth header: None
+DEBUG 2025-06-14 16:16:13,540 views 7448 1508 Is super admin: True
+DEBUG 2025-06-14 16:16:13,545 views 7448 1508 Is school admin: False
+DEBUG 2025-06-14 16:16:13,739 views 7448 19612 User: admin@educloud.com
+DEBUG 2025-06-14 16:16:13,741 views 7448 19612 Is authenticated: True
+DEBUG 2025-06-14 16:16:13,742 views 7448 19612 Auth header: None
+DEBUG 2025-06-14 16:16:13,743 views 7448 19612 Is super admin: True
+DEBUG 2025-06-14 16:16:13,744 views 7448 19612 Is school admin: False
+DEBUG 2025-06-14 16:16:27,240 views 7448 17332 User: admin@educloud.com
+DEBUG 2025-06-14 16:16:27,240 views 7448 17332 Is authenticated: True
+DEBUG 2025-06-14 16:16:27,240 views 7448 17332 Auth header: None
+DEBUG 2025-06-14 16:16:27,240 views 7448 17332 Is super admin: True
+DEBUG 2025-06-14 16:16:27,255 views 7448 17332 Is school admin: False
+DEBUG 2025-06-14 16:16:27,271 views 7448 17332 User: admin@educloud.com
+DEBUG 2025-06-14 16:16:27,271 views 7448 17332 Is authenticated: True
+DEBUG 2025-06-14 16:16:27,271 views 7448 17332 Auth header: None
+DEBUG 2025-06-14 16:16:27,271 views 7448 17332 Is super admin: True
+DEBUG 2025-06-14 16:16:27,271 views 7448 17332 Is school admin: False
+DEBUG 2025-06-14 16:16:36,814 views 7448 1508 User: admin@educloud.com
+DEBUG 2025-06-14 16:16:36,814 views 7448 1508 Is authenticated: True
+DEBUG 2025-06-14 16:16:36,826 views 7448 1508 Auth header: None
+DEBUG 2025-06-14 16:16:36,828 views 7448 1508 Is super admin: True
+DEBUG 2025-06-14 16:16:36,830 views 7448 1508 Is school admin: False
+DEBUG 2025-06-14 16:16:36,853 views 7448 19612 User: admin@educloud.com
+DEBUG 2025-06-14 16:16:36,853 views 7448 19612 Is authenticated: True
+DEBUG 2025-06-14 16:16:36,853 views 7448 19612 Auth header: None
+DEBUG 2025-06-14 16:16:36,853 views 7448 19612 Is super admin: True
+DEBUG 2025-06-14 16:16:36,853 views 7448 19612 Is school admin: False
+DEBUG 2025-06-14 16:18:29,441 views 7448 22028 User: admin@educloud.com
+DEBUG 2025-06-14 16:18:29,442 views 7448 22028 Is authenticated: True
+DEBUG 2025-06-14 16:18:29,445 views 7448 22028 Auth header: None
+DEBUG 2025-06-14 16:18:29,445 views 7448 22028 Is super admin: True
+DEBUG 2025-06-14 16:18:29,451 views 7448 22028 Is school admin: False
+DEBUG 2025-06-14 16:18:30,453 views 7448 17332 User: admin@educloud.com
+DEBUG 2025-06-14 16:18:30,453 views 7448 17332 Is authenticated: True
+DEBUG 2025-06-14 16:18:30,453 views 7448 17332 Auth header: None
+DEBUG 2025-06-14 16:18:30,470 views 7448 17332 Is super admin: True
+DEBUG 2025-06-14 16:18:30,474 views 7448 17332 Is school admin: False
+DEBUG 2025-06-14 16:19:01,013 views 7448 1508 User: admin@educloud.com
+DEBUG 2025-06-14 16:19:01,013 views 7448 1508 Is authenticated: True
+DEBUG 2025-06-14 16:19:01,029 views 7448 1508 Auth header: None
+DEBUG 2025-06-14 16:19:01,029 views 7448 1508 Is super admin: True
+DEBUG 2025-06-14 16:19:01,038 views 7448 1508 Is school admin: False
+DEBUG 2025-06-14 16:19:01,059 views 7448 1508 User: admin@educloud.com
+DEBUG 2025-06-14 16:19:01,059 views 7448 1508 Is authenticated: True
+DEBUG 2025-06-14 16:19:01,075 views 7448 1508 Auth header: None
+DEBUG 2025-06-14 16:19:01,075 views 7448 1508 Is super admin: True
+DEBUG 2025-06-14 16:19:01,075 views 7448 1508 Is school admin: False
+DEBUG 2025-06-14 16:19:27,352 views 7448 17332 User: admin@educloud.com
+DEBUG 2025-06-14 16:19:27,352 views 7448 17332 Is authenticated: True
+DEBUG 2025-06-14 16:19:27,352 views 7448 17332 Auth header: None
+DEBUG 2025-06-14 16:19:27,367 views 7448 17332 Is super admin: True
+DEBUG 2025-06-14 16:19:27,368 views 7448 17332 Is school admin: False
+DEBUG 2025-06-14 16:19:27,381 views 7448 17332 User: admin@educloud.com
+DEBUG 2025-06-14 16:19:27,381 views 7448 17332 Is authenticated: True
+DEBUG 2025-06-14 16:19:27,396 views 7448 17332 Auth header: None
+DEBUG 2025-06-14 16:19:27,396 views 7448 17332 Is super admin: True
+DEBUG 2025-06-14 16:19:27,396 views 7448 17332 Is school admin: False
+INFO 2025-06-14 16:23:33,677 autoreload 7448 17368 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\urls.py changed, reloading.
+INFO 2025-06-14 16:24:04,467 autoreload 7992 21180 Watching for file changes with StatReloader
+INFO 2025-06-14 16:24:44,568 autoreload 7992 21180 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\views.py changed, reloading.
+INFO 2025-06-14 16:24:46,912 autoreload 18172 3148 Watching for file changes with StatReloader
+DEBUG 2025-06-14 16:25:16,342 views 18172 10280 User: admin@educloud.com
+DEBUG 2025-06-14 16:25:24,921 views 18172 10280 Is authenticated: True
+DEBUG 2025-06-14 16:25:24,925 views 18172 10280 Auth header: None
+DEBUG 2025-06-14 16:25:24,928 views 18172 10280 Is super admin: True
+DEBUG 2025-06-14 16:25:24,928 views 18172 10280 Is school admin: False
+DEBUG 2025-06-14 16:25:25,327 views 18172 13808 User: admin@educloud.com
+DEBUG 2025-06-14 16:25:25,328 views 18172 13808 Is authenticated: True
+DEBUG 2025-06-14 16:25:25,329 views 18172 13808 Auth header: None
+DEBUG 2025-06-14 16:25:25,333 views 18172 13808 Is super admin: True
+DEBUG 2025-06-14 16:25:25,335 views 18172 13808 Is school admin: False
+DEBUG 2025-06-14 16:26:22,371 views 18172 13808 User: admin@educloud.com
+DEBUG 2025-06-14 16:26:22,371 views 18172 13808 Is authenticated: True
+DEBUG 2025-06-14 16:26:22,371 views 18172 13808 Auth header: None
+DEBUG 2025-06-14 16:26:22,386 views 18172 13808 Is super admin: True
+DEBUG 2025-06-14 16:26:22,386 views 18172 13808 Is school admin: False
+DEBUG 2025-06-14 16:26:22,422 views 18172 10280 User: admin@educloud.com
+DEBUG 2025-06-14 16:26:22,423 views 18172 10280 Is authenticated: True
+DEBUG 2025-06-14 16:26:22,424 views 18172 10280 Auth header: None
+DEBUG 2025-06-14 16:26:22,428 views 18172 10280 Is super admin: True
+DEBUG 2025-06-14 16:26:22,428 views 18172 10280 Is school admin: False
+DEBUG 2025-06-14 16:30:45,995 views 18172 11824 User: admin@educloud.com
+DEBUG 2025-06-14 16:30:46,010 views 18172 11824 Is authenticated: True
+DEBUG 2025-06-14 16:30:46,023 views 18172 11824 Auth header: None
+DEBUG 2025-06-14 16:30:46,066 views 18172 11824 Is super admin: True
+DEBUG 2025-06-14 16:30:46,066 views 18172 11824 Is school admin: False
+DEBUG 2025-06-14 16:30:46,090 views 18172 11824 User: admin@educloud.com
+DEBUG 2025-06-14 16:30:46,090 views 18172 11824 Is authenticated: True
+DEBUG 2025-06-14 16:30:46,090 views 18172 11824 Auth header: None
+DEBUG 2025-06-14 16:30:46,090 views 18172 11824 Is super admin: True
+DEBUG 2025-06-14 16:30:46,090 views 18172 11824 Is school admin: False
+DEBUG 2025-06-14 16:31:29,830 views 18172 5948 User: admin@educloud.com
+DEBUG 2025-06-14 16:31:29,830 views 18172 5948 Is authenticated: True
+DEBUG 2025-06-14 16:31:29,843 views 18172 5948 Auth header: None
+DEBUG 2025-06-14 16:31:29,844 views 18172 5948 Is super admin: True
+DEBUG 2025-06-14 16:31:29,844 views 18172 5948 Is school admin: False
+DEBUG 2025-06-14 16:31:29,874 views 18172 11824 User: admin@educloud.com
+DEBUG 2025-06-14 16:31:29,956 views 18172 11824 Is authenticated: True
+DEBUG 2025-06-14 16:31:29,962 views 18172 11824 Auth header: None
+DEBUG 2025-06-14 16:31:29,964 views 18172 11824 Is super admin: True
+DEBUG 2025-06-14 16:31:29,968 views 18172 11824 Is school admin: False
+DEBUG 2025-06-14 16:31:55,496 views 18172 19024 User: admin@educloud.com
+DEBUG 2025-06-14 16:31:55,496 views 18172 19024 Is authenticated: True
+DEBUG 2025-06-14 16:31:55,507 views 18172 19024 Auth header: None
+DEBUG 2025-06-14 16:31:55,507 views 18172 19024 Is super admin: True
+DEBUG 2025-06-14 16:31:55,507 views 18172 19024 Is school admin: False
+DEBUG 2025-06-14 16:31:55,544 views 18172 19024 User: admin@educloud.com
+DEBUG 2025-06-14 16:31:55,545 views 18172 19024 Is authenticated: True
+DEBUG 2025-06-14 16:31:55,546 views 18172 19024 Auth header: None
+DEBUG 2025-06-14 16:31:55,550 views 18172 19024 Is super admin: True
+DEBUG 2025-06-14 16:31:55,551 views 18172 19024 Is school admin: False
+DEBUG 2025-06-14 16:36:11,510 auth 18172 8448 Received Authorization header: 
+DEBUG 2025-06-14 16:36:11,510 auth 18172 8448 No Authorization header found
+DEBUG 2025-06-14 16:36:11,526 auth 18172 14832 Received Authorization header: 
+DEBUG 2025-06-14 16:36:11,526 auth 18172 14832 No Authorization header found
+DEBUG 2025-06-14 16:36:11,526 auth 18172 8448 Received Authorization header: 
+DEBUG 2025-06-14 16:36:11,526 auth 18172 8448 No Authorization header found
+DEBUG 2025-06-14 16:36:11,541 auth 18172 14832 Received Authorization header: 
+DEBUG 2025-06-14 16:36:11,541 auth 18172 14832 No Authorization header found
+DEBUG 2025-06-14 16:36:11,922 auth 18172 8448 Received Authorization header: 
+DEBUG 2025-06-14 16:36:11,922 auth 18172 8448 No Authorization header found
+DEBUG 2025-06-14 16:36:11,981 auth 18172 8448 Received Authorization header: 
+DEBUG 2025-06-14 16:36:11,981 auth 18172 8448 No Authorization header found
+INFO 2025-06-14 16:36:52,695 autoreload 18172 3148 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\urls.py changed, reloading.
+INFO 2025-06-14 16:36:58,835 autoreload 21380 15884 Watching for file changes with StatReloader
+DEBUG 2025-06-14 16:37:43,953 auth 21380 452 Received Authorization header: 
+DEBUG 2025-06-14 16:37:43,953 auth 21380 452 No Authorization header found
+DEBUG 2025-06-14 16:37:46,013 auth 21380 452 Found school admin for authentication: Youth Test
+DEBUG 2025-06-14 16:37:47,663 auth 21380 452 School admin password check successful
+DEBUG 2025-06-14 16:37:47,663 views 21380 452 Login attempt for school SCH-2FC457D0
+DEBUG 2025-06-14 16:37:47,663 views 21380 452 User authenticated: Youth Test
+DEBUG 2025-06-14 16:37:49,596 auth 21380 452 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:37:49,597 auth 21380 452 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:37:49,598 auth 21380 452 Requested school code from URL: SCH-2FC457D0
+DEBUG 2025-06-14 16:37:49,612 auth 21380 452 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:37:49,614 views 21380 452 Dashboard request for school SCH-2FC457D0
+DEBUG 2025-06-14 16:37:49,615 views 21380 452 User: Youth Test
+DEBUG 2025-06-14 16:37:49,619 views 21380 452 Is authenticated: True
+DEBUG 2025-06-14 16:37:49,620 views 21380 452 Is school admin: True
+DEBUG 2025-06-14 16:37:49,621 views 21380 452 Auth header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:37:49,661 auth 21380 452 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:37:49,663 auth 21380 452 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:37:49,665 auth 21380 452 Requested school code from URL: SCH-2FC457D0
+DEBUG 2025-06-14 16:37:49,671 auth 21380 452 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:37:49,671 views 21380 452 Dashboard request for school SCH-2FC457D0
+DEBUG 2025-06-14 16:37:49,678 views 21380 452 User: Youth Test
+DEBUG 2025-06-14 16:37:49,682 views 21380 452 Is authenticated: True
+DEBUG 2025-06-14 16:37:49,683 views 21380 452 Is school admin: True
+DEBUG 2025-06-14 16:37:49,687 views 21380 452 Auth header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:38:03,378 auth 21380 20972 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:38:03,378 auth 21380 20972 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:38:03,378 auth 21380 20972 Requested school code from URL: SCH-2FC457D0
+DEBUG 2025-06-14 16:38:03,393 auth 21380 20972 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:38:03,393 views 21380 20972 Dashboard request for school SCH-2FC457D0
+DEBUG 2025-06-14 16:38:03,393 views 21380 20972 User: Youth Test
+DEBUG 2025-06-14 16:38:03,401 views 21380 20972 Is authenticated: True
+DEBUG 2025-06-14 16:38:03,401 views 21380 20972 Is school admin: True
+DEBUG 2025-06-14 16:38:03,401 views 21380 20972 Auth header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:39:19,192 auth 21380 1176 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:39:19,192 auth 21380 1176 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:39:19,223 auth 21380 1176 Requested school code from URL: SCH-2FC457D0
+DEBUG 2025-06-14 16:39:19,230 auth 21380 1176 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:39:19,230 views 21380 1176 Dashboard request for school SCH-2FC457D0
+DEBUG 2025-06-14 16:39:19,230 views 21380 1176 User: Youth Test
+DEBUG 2025-06-14 16:39:19,230 views 21380 1176 Is authenticated: True
+DEBUG 2025-06-14 16:39:19,244 views 21380 1176 Is school admin: True
+DEBUG 2025-06-14 16:39:19,247 views 21380 1176 Auth header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:39:32,274 auth 21380 17524 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:39:32,274 auth 21380 17524 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:39:32,274 auth 21380 17524 Requested school code from URL: SCH-2FC457D0
+DEBUG 2025-06-14 16:39:32,290 auth 21380 17524 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:39:32,290 views 21380 17524 Dashboard request for school SCH-2FC457D0
+DEBUG 2025-06-14 16:39:32,290 views 21380 17524 User: Youth Test
+DEBUG 2025-06-14 16:39:32,290 views 21380 17524 Is authenticated: True
+DEBUG 2025-06-14 16:39:32,290 views 21380 17524 Is school admin: True
+DEBUG 2025-06-14 16:39:32,306 views 21380 17524 Auth header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+INFO 2025-06-14 16:42:28,690 autoreload 21380 15884 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\urls.py changed, reloading.
+INFO 2025-06-14 16:42:40,937 autoreload 19688 8032 Watching for file changes with StatReloader
+INFO 2025-06-14 16:42:57,381 autoreload 19688 8032 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\urls.py changed, reloading.
+INFO 2025-06-14 16:42:59,570 autoreload 8472 20472 Watching for file changes with StatReloader
+INFO 2025-06-14 16:43:21,855 autoreload 8472 20472 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\urls.py changed, reloading.
+INFO 2025-06-14 16:43:30,478 autoreload 14548 10040 Watching for file changes with StatReloader
+INFO 2025-06-14 16:44:21,708 autoreload 14548 10040 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\urls.py changed, reloading.
+INFO 2025-06-14 16:44:29,249 autoreload 7224 10876 Watching for file changes with StatReloader
+DEBUG 2025-06-14 16:44:39,610 auth 7224 21988 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:44:39,610 auth 7224 21988 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:44:39,610 auth 7224 21988 Requested school code from URL: admins
+DEBUG 2025-06-14 16:44:39,730 auth 7224 21988 Token school (SCH-2FC457D0) doesn't match requested school (admins)
+INFO 2025-06-14 16:45:41,444 autoreload 7224 10876 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\auth.py changed, reloading.
+INFO 2025-06-14 16:45:48,640 autoreload 8896 19680 Watching for file changes with StatReloader
+INFO 2025-06-14 16:51:18,430 autoreload 8896 19680 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\auth.py changed, reloading.
+INFO 2025-06-14 16:51:24,139 autoreload 11964 6012 Watching for file changes with StatReloader
+INFO 2025-06-14 16:51:41,487 autoreload 11964 6012 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\auth.py changed, reloading.
+INFO 2025-06-14 16:51:48,766 autoreload 10248 2144 Watching for file changes with StatReloader
+INFO 2025-06-14 16:51:56,168 autoreload 10248 2144 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\auth.py changed, reloading.
+INFO 2025-06-14 16:52:01,650 autoreload 11940 12036 Watching for file changes with StatReloader
+INFO 2025-06-14 16:55:55,827 autoreload 11940 12036 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\auth.py changed, reloading.
+INFO 2025-06-14 16:55:58,771 autoreload 15208 15972 Watching for file changes with StatReloader
+DEBUG 2025-06-14 16:56:39,838 auth 15208 18336 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:56:39,838 auth 15208 18336 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:56:39,838 auth 15208 18336 Admin route detected, skipping school code validation
+DEBUG 2025-06-14 16:56:39,875 auth 15208 18336 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:56:54,121 auth 15208 19952 Received Authorization header: 
+DEBUG 2025-06-14 16:56:54,121 auth 15208 19952 No Authorization header found
+DEBUG 2025-06-14 16:56:54,156 auth 15208 19952 Received Authorization header: 
+DEBUG 2025-06-14 16:56:54,156 auth 15208 19952 No Authorization header found
+DEBUG 2025-06-14 16:56:59,122 auth 15208 19952 Received Authorization header: 
+DEBUG 2025-06-14 16:56:59,122 auth 15208 19952 No Authorization header found
+DEBUG 2025-06-14 16:57:00,754 auth 15208 19952 Found school admin for authentication: Youth Test
+DEBUG 2025-06-14 16:57:02,438 auth 15208 19952 School admin password check successful
+DEBUG 2025-06-14 16:57:02,438 views 15208 19952 Login attempt for school SCH-2FC457D0
+DEBUG 2025-06-14 16:57:02,438 views 15208 19952 User authenticated: Youth Test
+DEBUG 2025-06-14 16:57:02,623 auth 15208 19952 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:57:02,623 auth 15208 19952 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:57:02,623 auth 15208 19952 Requested school code from URL: SCH-2FC457D0
+DEBUG 2025-06-14 16:57:02,639 auth 15208 19952 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:57:02,640 views 15208 19952 Dashboard request for school SCH-2FC457D0
+DEBUG 2025-06-14 16:57:02,640 views 15208 19952 User: Youth Test
+DEBUG 2025-06-14 16:57:02,671 views 15208 19952 Is authenticated: True
+DEBUG 2025-06-14 16:57:02,671 views 15208 19952 Is school admin: True
+DEBUG 2025-06-14 16:57:02,671 views 15208 19952 Auth header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:57:02,738 auth 15208 19952 Received Authorization header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:57:02,738 auth 15208 19952 Processing token: 8a50ed505f...
+DEBUG 2025-06-14 16:57:02,738 auth 15208 19952 Requested school code from URL: SCH-2FC457D0
+DEBUG 2025-06-14 16:57:02,760 auth 15208 19952 Successfully authenticated user for school: SCH-2FC457D0
+DEBUG 2025-06-14 16:57:02,761 views 15208 19952 Dashboard request for school SCH-2FC457D0
+DEBUG 2025-06-14 16:57:02,761 views 15208 19952 User: Youth Test
+DEBUG 2025-06-14 16:57:02,762 views 15208 19952 Is authenticated: True
+DEBUG 2025-06-14 16:57:02,764 views 15208 19952 Is school admin: True
+DEBUG 2025-06-14 16:57:02,765 views 15208 19952 Auth header: token 8a50ed505f8a61f01f0db596f25d7abe3f292734
+DEBUG 2025-06-14 16:57:18,887 views 15208 18760 User: admin@educloud.com
+DEBUG 2025-06-14 16:57:18,887 views 15208 18760 Is authenticated: True
+DEBUG 2025-06-14 16:57:18,887 views 15208 18760 Auth header: None
+DEBUG 2025-06-14 16:57:18,887 views 15208 18760 Is super admin: True
+DEBUG 2025-06-14 16:57:18,887 views 15208 18760 Is school admin: False
+DEBUG 2025-06-14 16:57:18,939 views 15208 18760 User: admin@educloud.com
+DEBUG 2025-06-14 16:57:18,940 views 15208 18760 Is authenticated: True
+DEBUG 2025-06-14 16:57:18,940 views 15208 18760 Auth header: None
+DEBUG 2025-06-14 16:57:18,940 views 15208 18760 Is super admin: True
+DEBUG 2025-06-14 16:57:18,940 views 15208 18760 Is school admin: False
+DEBUG 2025-06-14 16:57:29,808 views 15208 9700 User: admin@educloud.com
+DEBUG 2025-06-14 16:57:29,808 views 15208 9700 Is authenticated: True
+DEBUG 2025-06-14 16:57:29,835 views 15208 9700 Auth header: None
+DEBUG 2025-06-14 16:57:29,835 views 15208 9700 Is super admin: True
+DEBUG 2025-06-14 16:57:29,835 views 15208 9700 Is school admin: False
+DEBUG 2025-06-14 16:57:29,897 views 15208 9700 User: admin@educloud.com
+DEBUG 2025-06-14 16:57:29,897 views 15208 9700 Is authenticated: True
+DEBUG 2025-06-14 16:57:29,899 views 15208 9700 Auth header: None
+DEBUG 2025-06-14 16:57:29,900 views 15208 9700 Is super admin: True
+DEBUG 2025-06-14 16:57:29,900 views 15208 9700 Is school admin: False
+DEBUG 2025-06-14 16:57:34,229 views 15208 21200 User: admin@educloud.com
+DEBUG 2025-06-14 16:57:34,229 views 15208 21200 Is authenticated: True
+DEBUG 2025-06-14 16:57:34,242 views 15208 21200 Auth header: None
+DEBUG 2025-06-14 16:57:34,242 views 15208 21200 Is super admin: True
+DEBUG 2025-06-14 16:57:34,242 views 15208 21200 Is school admin: False
+DEBUG 2025-06-14 16:57:34,274 views 15208 21200 User: admin@educloud.com
+DEBUG 2025-06-14 16:57:34,274 views 15208 21200 Is authenticated: True
+DEBUG 2025-06-14 16:57:34,276 views 15208 21200 Auth header: None
+DEBUG 2025-06-14 16:57:34,280 views 15208 21200 Is super admin: True
+DEBUG 2025-06-14 16:57:34,281 views 15208 21200 Is school admin: False
+INFO 2025-06-16 19:10:32,935 autoreload 16808 16828 Watching for file changes with StatReloader
+DEBUG 2025-06-16 19:24:26,985 views 16808 17480 User: admin@educloud.com
+DEBUG 2025-06-16 19:24:27,233 views 16808 17480 Is authenticated: True
+DEBUG 2025-06-16 19:24:27,234 views 16808 17480 Auth header: None
+DEBUG 2025-06-16 19:24:27,236 views 16808 17480 Is super admin: True
+DEBUG 2025-06-16 19:24:27,238 views 16808 17480 Is school admin: False
+DEBUG 2025-06-16 19:24:31,023 views 16808 17480 User: admin@educloud.com
+DEBUG 2025-06-16 19:24:31,023 views 16808 17480 Is authenticated: True
+DEBUG 2025-06-16 19:24:31,027 views 16808 17480 Auth header: None
+DEBUG 2025-06-16 19:24:31,027 views 16808 17480 Is super admin: True
+DEBUG 2025-06-16 19:24:31,027 views 16808 17480 Is school admin: False
+DEBUG 2025-06-16 19:25:02,587 views 16808 11216 User: admin@educloud.com
+DEBUG 2025-06-16 19:25:02,587 views 16808 11216 Is authenticated: True
+DEBUG 2025-06-16 19:25:02,592 views 16808 11216 Auth header: None
+DEBUG 2025-06-16 19:25:02,592 views 16808 11216 Is super admin: True
+DEBUG 2025-06-16 19:25:02,593 views 16808 11216 Is school admin: False
+DEBUG 2025-06-16 19:25:02,635 views 16808 11216 User: admin@educloud.com
+DEBUG 2025-06-16 19:25:02,635 views 16808 11216 Is authenticated: True
+DEBUG 2025-06-16 19:25:02,636 views 16808 11216 Auth header: None
+DEBUG 2025-06-16 19:25:02,636 views 16808 11216 Is super admin: True
+DEBUG 2025-06-16 19:25:02,637 views 16808 11216 Is school admin: False
+DEBUG 2025-06-16 19:28:56,794 auth 16808 11548 Received Authorization header: 
+DEBUG 2025-06-16 19:28:56,796 auth 16808 19016 Received Authorization header: 
+DEBUG 2025-06-16 19:28:56,796 auth 16808 11548 No Authorization header found
+DEBUG 2025-06-16 19:28:56,797 auth 16808 19016 No Authorization header found
+DEBUG 2025-06-16 19:28:56,971 auth 16808 19016 Received Authorization header: 
+DEBUG 2025-06-16 19:28:56,972 auth 16808 19016 No Authorization header found
+DEBUG 2025-06-16 19:28:57,029 auth 16808 19016 Received Authorization header: 
+DEBUG 2025-06-16 19:28:57,029 auth 16808 19016 No Authorization header found
+DEBUG 2025-06-16 19:28:57,185 auth 16808 11548 Received Authorization header: 
+DEBUG 2025-06-16 19:28:57,217 auth 16808 19016 Received Authorization header: 
+DEBUG 2025-06-16 19:28:57,217 auth 16808 11548 No Authorization header found
+DEBUG 2025-06-16 19:28:57,242 auth 16808 19016 No Authorization header found
+DEBUG 2025-06-16 19:29:13,368 auth 16808 14184 Received Authorization header: 
+DEBUG 2025-06-16 19:29:13,368 auth 16808 14184 No Authorization header found
+DEBUG 2025-06-16 19:29:30,381 auth 16808 14296 Received Authorization header: 
+DEBUG 2025-06-16 19:29:30,381 auth 16808 14296 No Authorization header found
+DEBUG 2025-06-16 19:30:13,219 auth 16808 14296 Received Authorization header: 
+DEBUG 2025-06-16 19:30:13,225 auth 16808 14296 No Authorization header found
+DEBUG 2025-06-16 19:31:10,056 auth 16808 12348 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,060 auth 16808 14204 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,061 auth 16808 12348 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:10,177 auth 16808 14204 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:10,185 auth 16808 14204 Not a school-specific route
+DEBUG 2025-06-16 19:31:10,177 auth 16808 12348 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 19:31:10,476 auth 16808 14204 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:10,479 auth 16808 12348 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:10,483 views 16808 12348 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 19:31:10,485 views 16808 12348 User: for test
+DEBUG 2025-06-16 19:31:10,487 views 16808 12348 Is authenticated: True
+DEBUG 2025-06-16 19:31:10,495 views 16808 12348 Is school admin: True
+DEBUG 2025-06-16 19:31:10,496 views 16808 12348 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,590 auth 16808 14204 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,646 auth 16808 14204 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:10,646 auth 16808 14204 Not a school-specific route
+DEBUG 2025-06-16 19:31:10,648 auth 16808 12348 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,650 auth 16808 12348 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:10,650 auth 16808 12348 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 19:31:10,659 auth 16808 14204 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:10,665 auth 16808 12348 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:10,676 views 16808 12348 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 19:31:10,678 views 16808 12348 User: for test
+DEBUG 2025-06-16 19:31:10,679 views 16808 12348 Is authenticated: True
+DEBUG 2025-06-16 19:31:10,680 views 16808 12348 Is school admin: True
+DEBUG 2025-06-16 19:31:10,683 views 16808 12348 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,696 auth 16808 14204 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,697 auth 16808 14204 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:10,708 auth 16808 14204 Not a school-specific route
+DEBUG 2025-06-16 19:31:10,720 auth 16808 14204 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:10,726 auth 16808 14204 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:10,727 auth 16808 14204 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:10,727 auth 16808 14204 Not a school-specific route
+DEBUG 2025-06-16 19:31:10,729 auth 16808 14204 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:17,964 auth 16808 13368 Received Authorization header: 
+DEBUG 2025-06-16 19:31:17,964 auth 16808 13368 No Authorization header found
+DEBUG 2025-06-16 19:31:18,071 auth 16808 13368 Received Authorization header: 
+DEBUG 2025-06-16 19:31:18,082 auth 16808 13368 No Authorization header found
+DEBUG 2025-06-16 19:31:21,053 auth 16808 13368 Received Authorization header: 
+DEBUG 2025-06-16 19:31:21,053 auth 16808 13368 No Authorization header found
+DEBUG 2025-06-16 19:31:25,948 auth 16808 13368 Found school admin for authentication: for test
+DEBUG 2025-06-16 19:31:28,450 auth 16808 13368 School admin password check successful
+DEBUG 2025-06-16 19:31:28,450 views 16808 13368 Login attempt for school SCH-99F78095
+DEBUG 2025-06-16 19:31:28,450 views 16808 13368 User authenticated: for test
+DEBUG 2025-06-16 19:31:30,599 auth 16808 13368 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:30,599 auth 16808 13368 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:30,600 auth 16808 13368 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 19:31:30,680 auth 16808 13368 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:30,681 views 16808 13368 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 19:31:30,681 views 16808 13368 User: for test
+DEBUG 2025-06-16 19:31:30,682 views 16808 13368 Is authenticated: True
+DEBUG 2025-06-16 19:31:30,682 views 16808 13368 Is school admin: True
+DEBUG 2025-06-16 19:31:30,682 views 16808 13368 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:30,703 auth 16808 13368 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 19:31:30,703 auth 16808 13368 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 19:31:30,707 auth 16808 13368 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 19:31:30,713 auth 16808 13368 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 19:31:30,713 views 16808 13368 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 19:31:30,713 views 16808 13368 User: for test
+DEBUG 2025-06-16 19:31:30,715 views 16808 13368 Is authenticated: True
+DEBUG 2025-06-16 19:31:30,909 views 16808 13368 Is school admin: True
+DEBUG 2025-06-16 19:31:30,909 views 16808 13368 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+INFO 2025-06-16 19:53:04,512 autoreload 16808 16828 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\urls.py changed, reloading.
+INFO 2025-06-16 19:53:17,615 autoreload 17960 14460 Watching for file changes with StatReloader
+INFO 2025-06-16 19:58:57,506 autoreload 17960 14460 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-16 19:59:30,054 autoreload 14636 9708 Watching for file changes with StatReloader
+INFO 2025-06-16 20:06:01,358 autoreload 14636 9708 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-16 20:06:08,961 autoreload 3416 17116 Watching for file changes with StatReloader
+INFO 2025-06-16 20:08:26,965 autoreload 3416 17116 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\apps.py changed, reloading.
+INFO 2025-06-16 20:08:29,054 autoreload 18768 10328 Watching for file changes with StatReloader
+INFO 2025-06-16 20:09:24,456 autoreload 18768 10328 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\apps.py changed, reloading.
+INFO 2025-06-16 20:09:30,559 autoreload 17664 19616 Watching for file changes with StatReloader
+INFO 2025-06-16 20:10:14,872 autoreload 17664 19616 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-16 20:10:17,199 autoreload 17024 15708 Watching for file changes with StatReloader
+INFO 2025-06-16 20:11:18,752 autoreload 17024 15708 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 20:11:23,252 autoreload 4088 14752 Watching for file changes with StatReloader
+INFO 2025-06-16 20:11:45,679 autoreload 4088 14752 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 20:11:54,468 autoreload 13004 12908 Watching for file changes with StatReloader
+INFO 2025-06-16 20:14:04,233 autoreload 13004 12908 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 20:14:07,257 autoreload 13484 9688 Watching for file changes with StatReloader
+INFO 2025-06-16 20:14:30,077 autoreload 13484 9688 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 20:14:31,720 autoreload 12384 17020 Watching for file changes with StatReloader
+INFO 2025-06-16 20:16:31,100 autoreload 12384 17020 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\models.py changed, reloading.
+INFO 2025-06-16 20:16:32,576 autoreload 3636 12596 Watching for file changes with StatReloader
+INFO 2025-06-16 20:18:43,296 autoreload 3636 12596 C:\Users\Admin\educloud\backend\educloud_backend\apps\schools\models.py changed, reloading.
+INFO 2025-06-16 20:18:45,826 autoreload 19104 16836 Watching for file changes with StatReloader
+DEBUG 2025-06-16 20:21:05,185 auth 19104 4424 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:21:05,185 auth 19104 4424 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:21:05,197 auth 19104 4424 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:21:05,255 auth 19104 4424 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:21:05,255 views 19104 4424 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:21:05,310 views 19104 4424 User: for test
+DEBUG 2025-06-16 20:21:05,335 views 19104 4424 Is authenticated: True
+DEBUG 2025-06-16 20:21:05,335 views 19104 4424 Is school admin: True
+DEBUG 2025-06-16 20:21:05,345 views 19104 4424 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:21:05,995 auth 19104 4424 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:21:05,995 auth 19104 4424 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:21:05,995 auth 19104 4424 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:21:06,015 auth 19104 4424 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:21:06,020 views 19104 4424 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:21:06,105 views 19104 4424 User: for test
+DEBUG 2025-06-16 20:21:06,105 views 19104 4424 Is authenticated: True
+DEBUG 2025-06-16 20:21:06,105 views 19104 4424 Is school admin: True
+DEBUG 2025-06-16 20:21:06,114 views 19104 4424 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:21:06,135 auth 19104 4424 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:21:06,135 auth 19104 4424 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:21:06,135 auth 19104 4424 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:21:06,145 auth 19104 4424 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:21:06,145 views 19104 4424 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:21:06,145 views 19104 4424 User: for test
+DEBUG 2025-06-16 20:21:06,145 views 19104 4424 Is authenticated: True
+DEBUG 2025-06-16 20:21:06,145 views 19104 4424 Is school admin: True
+DEBUG 2025-06-16 20:21:06,155 views 19104 4424 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:21:17,451 auth 19104 17024 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:21:17,451 auth 19104 17024 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:21:17,455 auth 19104 17024 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:21:17,460 auth 19104 17024 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:21:17,460 views 19104 17024 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:21:17,464 views 19104 17024 User: for test
+DEBUG 2025-06-16 20:21:17,464 views 19104 17024 Is authenticated: True
+DEBUG 2025-06-16 20:21:17,464 views 19104 17024 Is school admin: True
+DEBUG 2025-06-16 20:21:17,464 views 19104 17024 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:09,820 views 19104 17728 User: admin@educloud.com
+DEBUG 2025-06-16 20:22:09,820 views 19104 17728 Is authenticated: True
+DEBUG 2025-06-16 20:22:09,825 views 19104 17728 Auth header: None
+DEBUG 2025-06-16 20:22:09,825 views 19104 17728 Is super admin: True
+DEBUG 2025-06-16 20:22:09,825 views 19104 17728 Is school admin: False
+DEBUG 2025-06-16 20:22:10,075 views 19104 20360 User: admin@educloud.com
+DEBUG 2025-06-16 20:22:10,075 views 19104 20360 Is authenticated: True
+DEBUG 2025-06-16 20:22:10,075 views 19104 20360 Auth header: None
+DEBUG 2025-06-16 20:22:10,075 views 19104 20360 Is super admin: True
+DEBUG 2025-06-16 20:22:10,084 views 19104 20360 Is school admin: False
+INFO 2025-06-16 20:22:25,327 autoreload 19104 16836 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-16 20:22:36,736 autoreload 392 14380 Watching for file changes with StatReloader
+DEBUG 2025-06-16 20:22:40,516 auth 392 19404 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:40,516 auth 392 19404 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:22:40,516 auth 392 19404 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:22:40,516 auth 392 19404 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:22:40,526 views 392 19404 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:22:40,526 views 392 19404 User: for test
+DEBUG 2025-06-16 20:22:40,526 views 392 19404 Is authenticated: True
+DEBUG 2025-06-16 20:22:40,526 views 392 19404 Is school admin: True
+DEBUG 2025-06-16 20:22:40,530 views 392 19404 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:40,576 auth 392 19404 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:40,596 auth 392 19404 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:22:40,596 auth 392 19404 Not a school-specific route
+DEBUG 2025-06-16 20:22:40,606 auth 392 19404 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:22:40,636 auth 392 19404 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:40,636 auth 392 19404 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:22:40,636 auth 392 19404 Not a school-specific route
+DEBUG 2025-06-16 20:22:40,651 auth 392 19404 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:22:40,687 auth 392 19404 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:40,688 auth 392 19404 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:22:40,688 auth 392 19404 Not a school-specific route
+DEBUG 2025-06-16 20:22:40,700 auth 392 19404 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:22:40,711 auth 392 19404 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:40,711 auth 392 19404 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:22:40,711 auth 392 19404 Not a school-specific route
+DEBUG 2025-06-16 20:22:40,721 auth 392 19404 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:22:45,148 auth 392 14236 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:45,148 auth 392 14236 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:22:45,148 auth 392 14236 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:22:45,155 auth 392 14236 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:22:45,155 views 392 14236 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:22:45,155 views 392 14236 User: for test
+DEBUG 2025-06-16 20:22:45,155 views 392 14236 Is authenticated: True
+DEBUG 2025-06-16 20:22:45,155 views 392 14236 Is school admin: True
+DEBUG 2025-06-16 20:22:45,155 views 392 14236 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:48,104 auth 392 14236 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:22:48,104 auth 392 14236 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:22:48,104 auth 392 14236 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:22:48,112 auth 392 14236 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:22:48,112 views 392 14236 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:22:48,112 views 392 14236 User: for test
+DEBUG 2025-06-16 20:22:48,112 views 392 14236 Is authenticated: True
+DEBUG 2025-06-16 20:22:48,120 views 392 14236 Is school admin: True
+DEBUG 2025-06-16 20:22:48,120 views 392 14236 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:44:20,234 auth 392 10496 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:44:20,234 auth 392 10496 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:44:20,234 auth 392 10496 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-16 20:44:20,249 auth 392 10496 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-16 20:44:20,306 views 392 10496 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-16 20:44:20,308 views 392 10496 User: for test
+DEBUG 2025-06-16 20:44:20,308 views 392 10496 Is authenticated: True
+DEBUG 2025-06-16 20:44:20,308 views 392 10496 Is school admin: True
+DEBUG 2025-06-16 20:44:20,308 views 392 10496 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:45:24,444 auth 392 18052 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:45:24,444 auth 392 18052 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:45:24,444 auth 392 18052 Not a school-specific route
+DEBUG 2025-06-16 20:45:24,454 auth 392 18052 Successfully authenticated user for school: SCH-99F78095
+INFO 2025-06-16 20:50:47,666 autoreload 392 14380 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-16 20:50:55,666 autoreload 18672 12908 Watching for file changes with StatReloader
+INFO 2025-06-16 20:52:01,644 autoreload 18672 12908 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-16 20:52:04,836 autoreload 11820 18996 Watching for file changes with StatReloader
+INFO 2025-06-16 20:52:42,750 autoreload 11820 18996 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-16 20:52:44,599 autoreload 15292 8424 Watching for file changes with StatReloader
+DEBUG 2025-06-16 20:58:05,990 auth 15292 17384 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-16 20:58:06,010 auth 15292 17384 Processing token: 30bcd61afe...
+DEBUG 2025-06-16 20:58:06,010 auth 15292 17384 Not a school-specific route
+DEBUG 2025-06-16 20:58:06,085 auth 15292 17384 Successfully authenticated user for school: SCH-99F78095
+INFO 2025-06-16 20:58:30,678 autoreload 15292 8424 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-16 20:58:47,225 autoreload 8580 18388 Watching for file changes with StatReloader
+INFO 2025-06-16 21:00:48,561 autoreload 8580 18388 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 21:00:51,923 autoreload 17132 15412 Watching for file changes with StatReloader
+INFO 2025-06-16 21:02:57,727 autoreload 17132 15412 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 21:02:59,891 autoreload 4316 13276 Watching for file changes with StatReloader
+INFO 2025-06-16 21:03:33,155 autoreload 4316 13276 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 21:03:34,921 autoreload 6708 12604 Watching for file changes with StatReloader
+INFO 2025-06-16 21:05:31,388 autoreload 6708 12604 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-16 21:05:39,457 autoreload 14232 16212 Watching for file changes with StatReloader
+INFO 2025-06-16 21:06:10,607 autoreload 14232 16212 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\serializers.py changed, reloading.
+INFO 2025-06-16 21:06:13,247 autoreload 16912 5100 Watching for file changes with StatReloader
+INFO 2025-06-16 21:07:20,675 autoreload 16912 5100 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-16 21:07:22,982 autoreload 2488 13296 Watching for file changes with StatReloader
+INFO 2025-06-17 10:01:07,586 autoreload 5764 7240 Watching for file changes with StatReloader
+DEBUG 2025-06-17 10:11:41,087 views 5764 13996 User: admin@educloud.com
+DEBUG 2025-06-17 10:11:41,116 views 5764 13996 Is authenticated: True
+DEBUG 2025-06-17 10:11:41,117 views 5764 13996 Auth header: None
+DEBUG 2025-06-17 10:11:41,118 views 5764 13996 Is super admin: True
+DEBUG 2025-06-17 10:11:41,118 views 5764 13996 Is school admin: False
+DEBUG 2025-06-17 10:11:41,777 views 5764 9580 User: admin@educloud.com
+DEBUG 2025-06-17 10:11:41,777 views 5764 9580 Is authenticated: True
+DEBUG 2025-06-17 10:11:41,779 views 5764 9580 Auth header: None
+DEBUG 2025-06-17 10:11:41,780 views 5764 9580 Is super admin: True
+DEBUG 2025-06-17 10:11:41,780 views 5764 9580 Is school admin: False
+DEBUG 2025-06-17 10:15:57,037 views 5764 14232 User: admin@educloud.com
+DEBUG 2025-06-17 10:15:57,054 views 5764 14232 Is authenticated: True
+DEBUG 2025-06-17 10:15:57,054 views 5764 14232 Auth header: None
+DEBUG 2025-06-17 10:15:57,069 views 5764 14232 Is super admin: True
+DEBUG 2025-06-17 10:15:57,071 views 5764 14232 Is school admin: False
+DEBUG 2025-06-17 10:15:57,187 views 5764 14232 User: admin@educloud.com
+DEBUG 2025-06-17 10:15:57,188 views 5764 14232 Is authenticated: True
+DEBUG 2025-06-17 10:15:57,189 views 5764 14232 Auth header: None
+DEBUG 2025-06-17 10:15:57,190 views 5764 14232 Is super admin: True
+DEBUG 2025-06-17 10:15:57,191 views 5764 14232 Is school admin: False
+DEBUG 2025-06-17 10:17:28,232 auth 5764 15312 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,232 auth 5764 15312 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:28,232 auth 5764 15312 Not a school-specific route
+DEBUG 2025-06-17 10:17:28,232 auth 5764 15316 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,232 auth 5764 15316 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:28,232 auth 5764 15316 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:17:28,248 auth 5764 15312 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:28,248 auth 5764 15316 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:28,265 views 5764 15316 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:17:28,265 auth 5764 15312 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,265 views 5764 15316 User: for test
+DEBUG 2025-06-17 10:17:28,426 auth 5764 15312 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:28,433 views 5764 15316 Is authenticated: True
+DEBUG 2025-06-17 10:17:28,433 auth 5764 15312 Not a school-specific route
+DEBUG 2025-06-17 10:17:28,433 views 5764 15316 Is school admin: True
+DEBUG 2025-06-17 10:17:28,433 views 5764 15316 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,448 auth 5764 15312 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:28,465 auth 5764 15312 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,465 auth 5764 15316 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,465 auth 5764 15312 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:28,465 auth 5764 15316 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:28,465 auth 5764 15312 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:17:28,465 auth 5764 15316 Not a school-specific route
+DEBUG 2025-06-17 10:17:28,482 auth 5764 15312 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:28,482 views 5764 15312 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:17:28,482 auth 5764 15316 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:28,482 views 5764 15312 User: for test
+DEBUG 2025-06-17 10:17:28,482 views 5764 15312 Is authenticated: True
+DEBUG 2025-06-17 10:17:28,482 views 5764 15312 Is school admin: True
+DEBUG 2025-06-17 10:17:28,482 views 5764 15312 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,865 auth 5764 15312 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:28,865 auth 5764 15312 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:28,881 auth 5764 15312 Not a school-specific route
+DEBUG 2025-06-17 10:17:28,883 auth 5764 15312 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:33,533 auth 5764 9200 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:33,533 auth 5764 9200 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:33,533 auth 5764 9200 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:17:33,533 auth 5764 9200 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:33,533 views 5764 9200 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:17:33,582 views 5764 9200 User: for test
+DEBUG 2025-06-17 10:17:33,583 views 5764 9200 Is authenticated: True
+DEBUG 2025-06-17 10:17:33,583 views 5764 9200 Is school admin: True
+DEBUG 2025-06-17 10:17:33,583 views 5764 9200 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:37,004 auth 5764 9200 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:17:37,004 auth 5764 9200 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:17:37,004 auth 5764 9200 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:17:37,020 auth 5764 9200 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:17:37,021 views 5764 9200 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:17:37,022 views 5764 9200 User: for test
+DEBUG 2025-06-17 10:17:37,023 views 5764 9200 Is authenticated: True
+DEBUG 2025-06-17 10:17:37,024 views 5764 9200 Is school admin: True
+DEBUG 2025-06-17 10:17:37,025 views 5764 9200 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:18:22,466 auth 5764 8532 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:18:22,466 auth 5764 8532 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:18:22,466 auth 5764 8532 Not a school-specific route
+DEBUG 2025-06-17 10:18:22,482 auth 5764 8532 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 10:18:39,125 log 5764 8532 Internal Server Error: /api/school-users/school-users/
+Traceback (most recent call last):
+  File "C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py", line 38, in create
+    token = Token.objects.create(user=user)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 661, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\base.py", line 545, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 391, in __set__
+    super().__set__(instance, value)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 288, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<SchoolUser: testing - Registrar at Nerd Academy>": "Token.user" must be a "SuperAdmin" instance.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py", line 81, in create
+    except serializers.ValidationError as e:
+           ^^^^^^^^^^^
+NameError: name 'serializers' is not defined
+DEBUG 2025-06-17 10:20:34,312 auth 5764 14628 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,312 auth 5764 14776 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,312 auth 5764 14628 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:34,328 auth 5764 14776 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:34,328 auth 5764 14628 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:20:34,328 auth 5764 14776 Not a school-specific route
+DEBUG 2025-06-17 10:20:34,344 auth 5764 14776 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:34,344 auth 5764 14628 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:34,344 views 5764 14628 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:20:34,344 views 5764 14628 User: for test
+DEBUG 2025-06-17 10:20:34,344 views 5764 14628 Is authenticated: True
+DEBUG 2025-06-17 10:20:34,359 auth 5764 14776 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,359 views 5764 14628 Is school admin: True
+DEBUG 2025-06-17 10:20:34,359 auth 5764 14776 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:34,359 views 5764 14628 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,359 auth 5764 14776 Not a school-specific route
+DEBUG 2025-06-17 10:20:34,406 auth 5764 14776 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:34,422 auth 5764 14628 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,422 auth 5764 14628 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:34,422 auth 5764 14628 Not a school-specific route
+DEBUG 2025-06-17 10:20:34,437 auth 5764 14776 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,437 auth 5764 14776 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:34,437 auth 5764 14776 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:20:34,449 auth 5764 14628 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:34,458 auth 5764 14776 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:34,464 views 5764 14776 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:20:34,466 views 5764 14776 User: for test
+DEBUG 2025-06-17 10:20:34,466 views 5764 14776 Is authenticated: True
+DEBUG 2025-06-17 10:20:34,467 views 5764 14776 Is school admin: True
+DEBUG 2025-06-17 10:20:34,470 views 5764 14776 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,714 auth 5764 14776 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:34,731 auth 5764 14776 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:34,734 auth 5764 14776 Not a school-specific route
+DEBUG 2025-06-17 10:20:34,743 auth 5764 14776 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:37,270 auth 5764 14776 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:37,270 auth 5764 14628 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:37,270 auth 5764 14776 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:37,270 auth 5764 14628 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:37,280 auth 5764 14776 Not a school-specific route
+DEBUG 2025-06-17 10:20:37,281 auth 5764 14628 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:20:37,282 auth 5764 14776 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:37,298 auth 5764 14628 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:37,298 auth 5764 14772 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:37,298 views 5764 14628 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:20:37,298 auth 5764 14772 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:37,298 views 5764 14628 User: for test
+DEBUG 2025-06-17 10:20:37,298 auth 5764 14772 Not a school-specific route
+DEBUG 2025-06-17 10:20:37,298 views 5764 14628 Is authenticated: True
+DEBUG 2025-06-17 10:20:37,311 views 5764 14628 Is school admin: True
+DEBUG 2025-06-17 10:20:37,314 views 5764 14628 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:37,314 auth 5764 14772 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:37,474 auth 5764 14628 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:37,482 auth 5764 14628 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:37,482 auth 5764 14628 Not a school-specific route
+DEBUG 2025-06-17 10:20:37,496 auth 5764 14628 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:20:37,513 auth 5764 14628 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:20:37,513 auth 5764 14628 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:20:37,513 auth 5764 14628 Not a school-specific route
+DEBUG 2025-06-17 10:20:37,533 auth 5764 14628 Successfully authenticated user for school: SCH-99F78095
+INFO 2025-06-17 10:21:12,843 autoreload 5764 7240 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 10:21:31,675 autoreload 11364 14360 Watching for file changes with StatReloader
+INFO 2025-06-17 10:22:59,848 autoreload 11364 14360 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 10:23:11,447 autoreload 14500 1332 Watching for file changes with StatReloader
+INFO 2025-06-17 10:23:32,787 autoreload 14500 1332 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 10:23:34,514 autoreload 9496 13224 Watching for file changes with StatReloader
+INFO 2025-06-17 10:24:00,273 autoreload 9496 13224 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 10:24:01,673 autoreload 13724 6784 Watching for file changes with StatReloader
+DEBUG 2025-06-17 10:36:31,773 auth 13724 7120 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:36:31,773 auth 13724 7120 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:36:31,806 auth 13724 7120 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:36:31,889 auth 13724 7120 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:36:31,889 views 13724 7120 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:36:31,889 views 13724 7120 User: for test
+DEBUG 2025-06-17 10:36:31,923 views 13724 7120 Is authenticated: True
+DEBUG 2025-06-17 10:36:31,923 views 13724 7120 Is school admin: True
+DEBUG 2025-06-17 10:36:31,957 views 13724 7120 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:37:29,201 auth 13724 7120 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:37:29,202 auth 13724 7120 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:37:29,204 auth 13724 7120 Not a school-specific route
+DEBUG 2025-06-17 10:37:29,219 auth 13724 7120 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 10:37:31,120 views 13724 7120 Error creating user: Cannot query "for Test - Registrar at Nerd Academy": Must be "SuperAdmin" instance.
+ERROR 2025-06-17 10:37:31,120 log 13724 7120 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 10:40:16,660 autoreload 13724 6784 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 10:40:19,425 autoreload 11392 13760 Watching for file changes with StatReloader
+INFO 2025-06-17 10:40:47,153 autoreload 11392 13760 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 10:40:49,296 autoreload 7392 13828 Watching for file changes with StatReloader
+INFO 2025-06-17 10:41:14,825 autoreload 7392 13828 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 10:41:16,371 autoreload 12100 3052 Watching for file changes with StatReloader
+DEBUG 2025-06-17 10:42:57,985 auth 12100 7616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:42:58,001 auth 12100 7616 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:42:58,001 auth 12100 7616 Not a school-specific route
+DEBUG 2025-06-17 10:42:58,016 auth 12100 6908 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:42:58,016 auth 12100 6908 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:42:58,016 auth 12100 6908 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:42:58,063 auth 12100 6908 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:42:58,063 views 12100 6908 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:42:58,063 views 12100 6908 User: for test
+DEBUG 2025-06-17 10:42:58,078 views 12100 6908 Is authenticated: True
+DEBUG 2025-06-17 10:42:58,078 views 12100 6908 Is school admin: True
+DEBUG 2025-06-17 10:42:58,078 auth 12100 7616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:42:58,078 views 12100 6908 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:42:58,135 auth 12100 7616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:42:58,136 auth 12100 7616 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:42:58,137 auth 12100 7616 Not a school-specific route
+DEBUG 2025-06-17 10:42:58,144 auth 12100 7616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:42:58,218 auth 12100 7616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:42:58,218 auth 12100 7616 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:42:58,218 auth 12100 7616 Not a school-specific route
+DEBUG 2025-06-17 10:42:58,227 auth 12100 7616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:42:58,227 auth 12100 7616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:42:58,241 auth 12100 7616 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:42:58,241 auth 12100 7616 Not a school-specific route
+DEBUG 2025-06-17 10:42:58,241 auth 12100 7616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:43:02,041 auth 12100 7616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:43:02,041 auth 12100 7616 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:43:02,057 auth 12100 7616 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 10:43:02,057 auth 12100 7616 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 10:43:02,057 views 12100 7616 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 10:43:02,057 views 12100 7616 User: for test
+DEBUG 2025-06-17 10:43:02,057 views 12100 7616 Is authenticated: True
+DEBUG 2025-06-17 10:43:02,057 views 12100 7616 Is school admin: True
+DEBUG 2025-06-17 10:43:02,073 views 12100 7616 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:43:26,674 auth 12100 7616 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 10:43:26,676 auth 12100 7616 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 10:43:26,678 auth 12100 7616 Not a school-specific route
+DEBUG 2025-06-17 10:43:26,690 auth 12100 7616 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 10:43:29,063 views 12100 7616 Error creating user: Cannot query "for Test - Registrar at Nerd Academy": Must be "SuperAdmin" instance.
+ERROR 2025-06-17 10:43:29,063 log 12100 7616 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 10:45:52,291 autoreload 12100 3052 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 10:45:54,497 autoreload 14824 12464 Watching for file changes with StatReloader
+INFO 2025-06-17 10:46:35,399 autoreload 14824 12464 C:\Users\Admin\educloud\backend\educloud_backend\apps\authentications\models.py changed, reloading.
+INFO 2025-06-17 10:46:37,733 autoreload 2496 8048 Watching for file changes with StatReloader
+INFO 2025-06-17 10:48:05,095 autoreload 2496 8048 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 10:48:07,498 autoreload 13308 4140 Watching for file changes with StatReloader
+INFO 2025-06-17 11:40:24,368 autoreload 13308 4140 C:\Users\Admin\educloud\backend\educloud_backend\apps\authentications\models.py changed, reloading.
+INFO 2025-06-17 11:40:46,387 autoreload 12816 14052 Watching for file changes with StatReloader
+INFO 2025-06-17 11:41:18,176 autoreload 12816 14052 C:\Users\Admin\educloud\backend\educloud_backend\apps\authentications\models.py changed, reloading.
+INFO 2025-06-17 11:41:20,167 autoreload 7472 15412 Watching for file changes with StatReloader
+INFO 2025-06-17 11:43:17,514 autoreload 7472 15412 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 11:43:19,932 autoreload 15400 13272 Watching for file changes with StatReloader
+INFO 2025-06-17 11:43:49,581 autoreload 15400 13272 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 11:43:51,488 autoreload 15836 2620 Watching for file changes with StatReloader
+DEBUG 2025-06-17 11:46:38,235 views 15836 14488 User: admin@educloud.com
+DEBUG 2025-06-17 11:46:38,237 views 15836 14488 Is authenticated: True
+DEBUG 2025-06-17 11:46:38,239 views 15836 14488 Auth header: None
+DEBUG 2025-06-17 11:46:38,242 views 15836 14488 Is super admin: True
+DEBUG 2025-06-17 11:46:38,243 views 15836 14488 Is school admin: False
+DEBUG 2025-06-17 11:46:38,547 views 15836 14488 User: admin@educloud.com
+DEBUG 2025-06-17 11:46:38,548 views 15836 14488 Is authenticated: True
+DEBUG 2025-06-17 11:46:38,550 views 15836 14488 Auth header: None
+DEBUG 2025-06-17 11:46:38,556 views 15836 14488 Is super admin: True
+DEBUG 2025-06-17 11:46:38,557 views 15836 14488 Is school admin: False
+DEBUG 2025-06-17 11:46:44,886 auth 15836 10980 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 11:46:44,923 auth 15836 10980 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 11:46:44,924 auth 15836 10980 Not a school-specific route
+DEBUG 2025-06-17 11:46:44,981 auth 15836 10980 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 11:46:47,055 views 15836 10980 Error creating user: Cannot query "for Test - Registrar at Nerd Academy": Must be "SuperAdmin" instance.
+ERROR 2025-06-17 11:46:47,057 log 15836 10980 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 11:47:05,297 autoreload 15836 2620 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 11:47:07,877 autoreload 16152 2260 Watching for file changes with StatReloader
+INFO 2025-06-17 11:49:22,262 autoreload 16152 2260 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 11:49:34,057 autoreload 9472 9724 Watching for file changes with StatReloader
+INFO 2025-06-17 11:51:12,781 autoreload 9472 9724 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 11:51:15,411 autoreload 10792 5888 Watching for file changes with StatReloader
+INFO 2025-06-17 11:51:57,714 autoreload 10792 5888 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 11:51:59,844 autoreload 632 10848 Watching for file changes with StatReloader
+INFO 2025-06-17 11:52:30,719 autoreload 632 10848 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 11:52:33,027 autoreload 16168 14528 Watching for file changes with StatReloader
+INFO 2025-06-17 11:53:18,841 autoreload 16168 14528 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 11:53:21,241 autoreload 2956 9148 Watching for file changes with StatReloader
+INFO 2025-06-17 11:54:32,135 autoreload 2956 9148 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 11:54:33,823 autoreload 1764 13724 Watching for file changes with StatReloader
+INFO 2025-06-17 11:57:59,091 autoreload 1764 13724 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 11:58:15,039 autoreload 12272 11968 Watching for file changes with StatReloader
+INFO 2025-06-17 11:59:23,101 autoreload 12272 11968 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 11:59:25,366 autoreload 14600 4936 Watching for file changes with StatReloader
+INFO 2025-06-17 12:00:01,487 autoreload 14600 4936 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 12:00:03,112 autoreload 15548 14780 Watching for file changes with StatReloader
+INFO 2025-06-17 12:00:47,143 autoreload 15548 14780 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 12:00:49,616 autoreload 15476 16324 Watching for file changes with StatReloader
+INFO 2025-06-17 12:01:27,899 autoreload 15476 16324 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:01:30,492 autoreload 3364 11132 Watching for file changes with StatReloader
+DEBUG 2025-06-17 12:04:22,959 auth 3364 11604 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:04:23,206 auth 3364 11604 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:04:23,207 auth 3364 11604 Not a school-specific route
+DEBUG 2025-06-17 12:04:23,470 auth 3364 11604 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 12:04:27,954 views 3364 11604 Error creating user: Cannot query "for Test - Registrar at Nerd Academy": Must be "SuperAdmin" instance.
+ERROR 2025-06-17 12:04:28,114 log 3364 11604 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 12:04:51,114 autoreload 3364 11132 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 12:05:16,208 autoreload 472 12372 Watching for file changes with StatReloader
+DEBUG 2025-06-17 12:05:48,757 auth 472 10300 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:05:48,761 auth 472 10300 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:05:48,766 auth 472 10300 Not a school-specific route
+DEBUG 2025-06-17 12:05:48,946 auth 472 10300 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 12:05:51,341 views 472 10300 Error creating user: Cannot query "for Test - Registrar at Nerd Academy": Must be "SuperAdmin" instance.
+ERROR 2025-06-17 12:05:51,342 log 472 10300 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 12:09:37,076 autoreload 472 12372 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 12:09:39,837 autoreload 11524 14096 Watching for file changes with StatReloader
+INFO 2025-06-17 12:10:25,900 autoreload 11524 14096 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:10:28,195 autoreload 15988 10156 Watching for file changes with StatReloader
+INFO 2025-06-17 12:13:06,381 autoreload 15988 10156 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:13:09,527 autoreload 17072 17028 Watching for file changes with StatReloader
+INFO 2025-06-17 12:14:07,011 autoreload 17072 17028 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:14:09,350 autoreload 16712 16724 Watching for file changes with StatReloader
+INFO 2025-06-17 12:17:25,095 autoreload 16712 16724 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:17:26,760 autoreload 17044 17124 Watching for file changes with StatReloader
+INFO 2025-06-17 12:18:12,228 autoreload 17044 17124 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:18:13,704 autoreload 15216 14640 Watching for file changes with StatReloader
+INFO 2025-06-17 12:19:58,304 autoreload 15216 14640 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:20:00,962 autoreload 13168 13180 Watching for file changes with StatReloader
+INFO 2025-06-17 12:20:09,218 autoreload 13168 13180 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:20:11,387 autoreload 14788 16780 Watching for file changes with StatReloader
+INFO 2025-06-17 12:20:21,843 autoreload 14788 16780 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:20:24,237 autoreload 1592 2708 Watching for file changes with StatReloader
+INFO 2025-06-17 12:20:47,922 autoreload 1592 2708 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:20:49,486 autoreload 14236 5112 Watching for file changes with StatReloader
+INFO 2025-06-17 12:22:44,888 autoreload 14236 5112 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:22:46,365 autoreload 16760 17388 Watching for file changes with StatReloader
+INFO 2025-06-17 12:40:42,289 autoreload 16760 17388 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\settings.py changed, reloading.
+INFO 2025-06-17 12:41:06,137 autoreload 2768 14072 Watching for file changes with StatReloader
+DEBUG 2025-06-17 12:41:14,199 auth 2768 17044 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:41:14,199 auth 2768 17044 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:41:14,202 auth 2768 17044 Not a school-specific route
+DEBUG 2025-06-17 12:41:14,254 auth 2768 17044 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:42:03,516 auth 2768 15460 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:42:03,524 auth 2768 15460 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:42:03,524 auth 2768 15460 Not a school-specific route
+DEBUG 2025-06-17 12:42:03,552 auth 2768 15460 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:42:03,605 auth 2768 15460 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:42:03,605 auth 2768 15460 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:42:03,605 auth 2768 15460 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 12:42:03,621 auth 2768 15460 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:42:03,621 views 2768 15460 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 12:42:03,643 views 2768 15460 User: for test
+DEBUG 2025-06-17 12:42:03,721 views 2768 15460 Is authenticated: True
+DEBUG 2025-06-17 12:42:03,721 views 2768 15460 Is school admin: True
+DEBUG 2025-06-17 12:42:03,737 views 2768 15460 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:42:03,784 auth 2768 14052 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:42:03,784 auth 2768 14052 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:42:03,784 auth 2768 14052 Not a school-specific route
+DEBUG 2025-06-17 12:42:03,806 auth 2768 14052 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:42:04,141 auth 2768 15460 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:42:04,141 auth 2768 15460 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:42:04,141 auth 2768 15460 Not a school-specific route
+DEBUG 2025-06-17 12:42:04,162 auth 2768 15460 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:42:04,177 auth 2768 15460 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:42:04,177 auth 2768 15460 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:42:04,177 auth 2768 15460 Not a school-specific route
+DEBUG 2025-06-17 12:42:04,190 auth 2768 15460 Successfully authenticated user for school: SCH-99F78095
+INFO 2025-06-17 12:43:58,824 autoreload 2768 14072 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\serializers.py changed, reloading.
+INFO 2025-06-17 12:44:01,271 autoreload 15484 13668 Watching for file changes with StatReloader
+INFO 2025-06-17 12:44:40,582 autoreload 15484 13668 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\serializers.py changed, reloading.
+INFO 2025-06-17 12:44:42,138 autoreload 17248 16628 Watching for file changes with StatReloader
+INFO 2025-06-17 12:46:10,847 autoreload 17248 16628 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:46:13,348 autoreload 12992 17316 Watching for file changes with StatReloader
+INFO 2025-06-17 12:46:56,779 autoreload 12992 17316 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:46:58,583 autoreload 5628 14148 Watching for file changes with StatReloader
+DEBUG 2025-06-17 12:51:50,851 auth 5628 17136 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:51:50,888 auth 5628 17136 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:51:50,889 auth 5628 17136 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 12:51:52,092 auth 5628 17136 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:51:52,117 views 5628 17136 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 12:51:52,121 views 5628 17136 User: for test
+DEBUG 2025-06-17 12:51:52,147 views 5628 17136 Is authenticated: True
+DEBUG 2025-06-17 12:51:52,148 views 5628 17136 Is school admin: True
+DEBUG 2025-06-17 12:51:52,177 views 5628 17136 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:51:53,796 auth 5628 17136 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:51:53,797 auth 5628 17136 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:51:53,799 auth 5628 17136 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 12:51:53,812 auth 5628 17136 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:51:53,812 views 5628 17136 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 12:51:53,827 views 5628 17136 User: for test
+DEBUG 2025-06-17 12:51:53,831 views 5628 17136 Is authenticated: True
+DEBUG 2025-06-17 12:51:53,831 views 5628 17136 Is school admin: True
+DEBUG 2025-06-17 12:51:53,831 views 5628 17136 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:51:56,257 auth 5628 17136 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:51:56,257 auth 5628 17136 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:51:56,276 auth 5628 17136 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 12:51:56,276 auth 5628 17136 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 12:51:56,276 views 5628 17136 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 12:51:56,276 views 5628 17136 User: for test
+DEBUG 2025-06-17 12:51:56,276 views 5628 17136 Is authenticated: True
+DEBUG 2025-06-17 12:51:56,276 views 5628 17136 Is school admin: True
+DEBUG 2025-06-17 12:51:56,276 views 5628 17136 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:52:32,659 auth 5628 17136 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:52:32,659 auth 5628 17136 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:52:32,659 auth 5628 17136 Not a school-specific route
+DEBUG 2025-06-17 12:52:32,675 auth 5628 17136 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 12:52:34,602 views 5628 17136 Error creating user: Cannot assign "<SchoolUser: for Test - Registrar at Nerd Academy>": "SchoolUserToken.user" must be a "SuperAdmin" instance.
+ERROR 2025-06-17 12:52:34,602 log 5628 17136 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 12:52:43,137 autoreload 5628 14148 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\views.py changed, reloading.
+INFO 2025-06-17 12:53:04,991 autoreload 10128 16816 Watching for file changes with StatReloader
+DEBUG 2025-06-17 12:53:29,726 auth 10128 4848 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:53:29,726 auth 10128 4848 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:53:29,726 auth 10128 4848 Not a school-specific route
+DEBUG 2025-06-17 12:53:29,740 auth 10128 4848 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 12:53:32,289 views 10128 4848 Error creating user: Cannot assign "<SchoolUser: for Test - Registrar at Nerd Academy>": "SchoolUserToken.user" must be a "SuperAdmin" instance.
+ERROR 2025-06-17 12:53:32,289 log 10128 4848 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 12:54:45,729 autoreload 10128 16816 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 12:54:48,632 autoreload 4776 14884 Watching for file changes with StatReloader
+INFO 2025-06-17 12:54:55,923 autoreload 4776 14884 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 12:54:57,970 autoreload 16988 10852 Watching for file changes with StatReloader
+INFO 2025-06-17 12:55:32,149 autoreload 16988 10852 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 12:55:34,871 autoreload 13072 16416 Watching for file changes with StatReloader
+INFO 2025-06-17 12:56:46,833 autoreload 13072 16416 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 12:56:49,211 autoreload 8724 11788 Watching for file changes with StatReloader
+DEBUG 2025-06-17 12:58:46,643 auth 8724 17148 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 12:58:46,643 auth 8724 17148 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 12:58:46,643 auth 8724 17148 Not a school-specific route
+DEBUG 2025-06-17 12:58:46,653 auth 8724 17148 Successfully authenticated user for school: SCH-99F78095
+ERROR 2025-06-17 12:58:52,596 views 8724 17148 Error creating user: FOREIGN KEY constraint failed
+ERROR 2025-06-17 12:58:52,602 log 8724 17148 Internal Server Error: /api/school-users/school-users/
+INFO 2025-06-17 12:59:58,535 autoreload 8724 11788 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\serializers.py changed, reloading.
+INFO 2025-06-17 13:00:00,916 autoreload 11556 16888 Watching for file changes with StatReloader
+INFO 2025-06-17 13:00:35,564 autoreload 11556 16888 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\serializers.py changed, reloading.
+INFO 2025-06-17 13:00:37,626 autoreload 16252 14204 Watching for file changes with StatReloader
+INFO 2025-06-17 13:00:45,003 autoreload 16252 14204 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 13:00:46,926 autoreload 11976 16200 Watching for file changes with StatReloader
+INFO 2025-06-17 13:00:56,112 autoreload 11976 16200 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 13:00:57,975 autoreload 17176 17064 Watching for file changes with StatReloader
+INFO 2025-06-17 13:01:23,774 autoreload 17176 17064 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\models.py changed, reloading.
+INFO 2025-06-17 13:01:26,975 autoreload 15656 10700 Watching for file changes with StatReloader
+DEBUG 2025-06-17 13:03:40,453 auth 15656 15644 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:03:40,458 auth 15656 15644 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:03:40,458 auth 15656 15644 Not a school-specific route
+DEBUG 2025-06-17 13:03:40,606 auth 15656 15644 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:03:59,475 auth 15656 15644 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:03:59,475 auth 15656 15644 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:03:59,478 auth 15656 15644 Not a school-specific route
+DEBUG 2025-06-17 13:03:59,489 auth 15656 15644 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:03:59,504 auth 15656 15644 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:03:59,508 auth 15656 15644 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:03:59,508 auth 15656 15644 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 13:03:59,513 auth 15656 15644 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:03:59,513 views 15656 15644 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 13:03:59,517 views 15656 15644 User: for test
+DEBUG 2025-06-17 13:03:59,539 views 15656 15644 Is authenticated: True
+DEBUG 2025-06-17 13:03:59,539 views 15656 15644 Is school admin: True
+DEBUG 2025-06-17 13:03:59,539 views 15656 15644 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:03:59,581 auth 15656 15644 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:03:59,584 auth 15656 15644 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:03:59,585 auth 15656 15644 Not a school-specific route
+DEBUG 2025-06-17 13:03:59,591 auth 15656 15644 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:03:59,658 auth 15656 15644 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:03:59,659 auth 15656 15644 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:03:59,659 auth 15656 15644 Not a school-specific route
+DEBUG 2025-06-17 13:03:59,667 auth 15656 15644 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:03:59,667 auth 15656 15644 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:03:59,667 auth 15656 15644 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:03:59,667 auth 15656 15644 Not a school-specific route
+DEBUG 2025-06-17 13:03:59,687 auth 15656 15644 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:04:42,270 views 15656 7484 User: admin@educloud.com
+DEBUG 2025-06-17 13:04:42,271 views 15656 7484 Is authenticated: True
+DEBUG 2025-06-17 13:04:42,272 views 15656 7484 Auth header: None
+DEBUG 2025-06-17 13:04:42,280 views 15656 7484 Is super admin: True
+DEBUG 2025-06-17 13:04:42,281 views 15656 7484 Is school admin: False
+DEBUG 2025-06-17 13:04:42,327 views 15656 6908 User: admin@educloud.com
+DEBUG 2025-06-17 13:04:42,328 views 15656 6908 Is authenticated: True
+DEBUG 2025-06-17 13:04:42,339 views 15656 6908 Auth header: None
+DEBUG 2025-06-17 13:04:42,340 views 15656 6908 Is super admin: True
+DEBUG 2025-06-17 13:04:42,341 views 15656 6908 Is school admin: False
+INFO 2025-06-17 13:04:50,676 autoreload 15656 10700 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_adding_users\serializers.py changed, reloading.
+INFO 2025-06-17 13:04:53,946 autoreload 15556 4984 Watching for file changes with StatReloader
+DEBUG 2025-06-17 13:07:21,247 auth 15556 7428 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:07:21,247 auth 15556 7428 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:07:21,263 auth 15556 7428 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 13:07:21,263 auth 15556 7428 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:07:21,263 views 15556 7428 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 13:07:21,263 views 15556 7428 User: for test
+DEBUG 2025-06-17 13:07:21,263 views 15556 7428 Is authenticated: True
+DEBUG 2025-06-17 13:07:21,263 views 15556 7428 Is school admin: True
+DEBUG 2025-06-17 13:07:21,263 views 15556 7428 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:07:24,280 auth 15556 7428 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 13:07:24,416 auth 15556 7428 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 13:07:24,417 auth 15556 7428 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 13:07:24,427 auth 15556 7428 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 13:07:24,428 views 15556 7428 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 13:07:24,429 views 15556 7428 User: for test
+DEBUG 2025-06-17 13:07:24,430 views 15556 7428 Is authenticated: True
+DEBUG 2025-06-17 13:07:24,431 views 15556 7428 Is school admin: True
+DEBUG 2025-06-17 13:07:24,432 views 15556 7428 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:05,006 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:05,006 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:05,021 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:05,021 auth 15556 5460 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:05,037 auth 15556 5460 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:05,037 auth 15556 5460 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:24:05,094 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:05,094 auth 15556 5460 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:05,110 views 15556 5460 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 14:24:05,110 views 15556 5460 User: for test
+DEBUG 2025-06-17 14:24:05,110 views 15556 5460 Is authenticated: True
+DEBUG 2025-06-17 14:24:05,110 views 15556 5460 Is school admin: True
+DEBUG 2025-06-17 14:24:05,141 views 15556 5460 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:05,172 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:05,182 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:05,182 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:05,182 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:05,287 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:05,302 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:05,302 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:05,317 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:05,317 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:05,317 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:05,331 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:05,332 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:11,784 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:11,798 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:11,799 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:11,799 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:12,161 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:12,161 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:12,177 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:12,200 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:20,971 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:20,971 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:20,971 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:20,980 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:21,152 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:21,152 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:21,152 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:21,152 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:23,280 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:23,281 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:23,281 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:23,281 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:23,397 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:23,397 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:23,397 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:23,397 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:34,137 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:34,137 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:34,137 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:34,146 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:34,337 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:34,337 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:34,337 auth 15556 15704 Not a school-specific route
+DEBUG 2025-06-17 14:24:34,353 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:37,181 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:37,181 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:37,181 auth 15556 15704 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:24:37,181 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:37,181 views 15556 15704 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 14:24:37,181 views 15556 15704 User: for test
+DEBUG 2025-06-17 14:24:37,181 views 15556 15704 Is authenticated: True
+DEBUG 2025-06-17 14:24:37,181 views 15556 15704 Is school admin: True
+DEBUG 2025-06-17 14:24:37,181 views 15556 15704 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:40,466 auth 15556 15704 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:24:40,466 auth 15556 15704 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:24:40,467 auth 15556 15704 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:24:40,489 auth 15556 15704 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:24:40,498 views 15556 15704 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 14:24:40,498 views 15556 15704 User: for test
+DEBUG 2025-06-17 14:24:40,498 views 15556 15704 Is authenticated: True
+DEBUG 2025-06-17 14:24:40,498 views 15556 15704 Is school admin: True
+DEBUG 2025-06-17 14:24:40,498 views 15556 15704 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:25:11,331 views 15556 15764 User: admin@educloud.com
+DEBUG 2025-06-17 14:25:11,331 views 15556 15764 Is authenticated: True
+DEBUG 2025-06-17 14:25:11,331 views 15556 15764 Auth header: None
+DEBUG 2025-06-17 14:25:11,331 views 15556 15764 Is super admin: True
+DEBUG 2025-06-17 14:25:11,331 views 15556 15764 Is school admin: False
+DEBUG 2025-06-17 14:25:11,383 views 15556 15764 User: admin@educloud.com
+DEBUG 2025-06-17 14:25:11,383 views 15556 15764 Is authenticated: True
+DEBUG 2025-06-17 14:25:11,384 views 15556 15764 Auth header: None
+DEBUG 2025-06-17 14:25:11,385 views 15556 15764 Is super admin: True
+DEBUG 2025-06-17 14:25:11,385 views 15556 15764 Is school admin: False
+DEBUG 2025-06-17 14:25:22,872 views 15556 15764 User: admin@educloud.com
+DEBUG 2025-06-17 14:25:22,872 views 15556 15764 Is authenticated: True
+DEBUG 2025-06-17 14:25:22,872 views 15556 15764 Auth header: None
+DEBUG 2025-06-17 14:25:22,872 views 15556 15764 Is super admin: True
+DEBUG 2025-06-17 14:25:22,872 views 15556 15764 Is school admin: False
+DEBUG 2025-06-17 14:25:22,897 views 15556 6380 User: admin@educloud.com
+DEBUG 2025-06-17 14:25:22,897 views 15556 6380 Is authenticated: True
+DEBUG 2025-06-17 14:25:22,913 views 15556 6380 Auth header: None
+DEBUG 2025-06-17 14:25:22,915 views 15556 6380 Is super admin: True
+DEBUG 2025-06-17 14:25:22,915 views 15556 6380 Is school admin: False
+DEBUG 2025-06-17 14:27:12,297 auth 15556 17772 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:27:12,298 auth 15556 17772 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:27:12,299 auth 15556 17772 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:27:12,304 auth 15556 17772 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:27:12,304 views 15556 17772 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 14:27:12,305 views 15556 17772 User: for test
+DEBUG 2025-06-17 14:27:12,309 views 15556 17772 Is authenticated: True
+DEBUG 2025-06-17 14:27:12,310 views 15556 17772 Is school admin: True
+DEBUG 2025-06-17 14:27:12,311 views 15556 17772 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:27:16,176 auth 15556 17772 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:27:16,179 auth 15556 17772 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:27:16,179 auth 15556 17772 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:27:16,199 auth 15556 17772 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:27:16,199 views 15556 17772 Dashboard request for school SCH-99F78095
+DEBUG 2025-06-17 14:27:16,199 views 15556 17772 User: for test
+DEBUG 2025-06-17 14:27:16,199 views 15556 17772 Is authenticated: True
+DEBUG 2025-06-17 14:27:16,199 views 15556 17772 Is school admin: True
+DEBUG 2025-06-17 14:27:16,199 views 15556 17772 Auth header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+INFO 2025-06-17 14:33:49,471 autoreload 15556 4984 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\urls.py changed, reloading.
+INFO 2025-06-17 14:34:04,592 autoreload 16312 15072 Watching for file changes with StatReloader
+INFO 2025-06-17 14:38:05,014 autoreload 16312 15072 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_analytics\views.py changed, reloading.
+INFO 2025-06-17 14:38:18,547 autoreload 8304 5592 Watching for file changes with StatReloader
+INFO 2025-06-17 14:42:41,761 autoreload 8304 5592 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_analytics\views.py changed, reloading.
+INFO 2025-06-17 14:42:54,649 autoreload 14396 16416 Watching for file changes with StatReloader
+INFO 2025-06-17 14:43:14,357 autoreload 14396 16416 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_analytics\urls.py changed, reloading.
+INFO 2025-06-17 14:43:18,242 autoreload 5348 17608 Watching for file changes with StatReloader
+INFO 2025-06-17 14:43:40,342 autoreload 5348 17608 C:\Users\Admin\educloud\backend\educloud_backend\educloud_backend\urls.py changed, reloading.
+INFO 2025-06-17 14:43:44,014 autoreload 13700 7316 Watching for file changes with StatReloader
+DEBUG 2025-06-17 14:44:56,281 auth 13700 7160 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:44:56,286 auth 13700 10368 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:44:56,286 auth 13700 7160 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:44:56,289 auth 13700 10368 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:44:56,290 auth 13700 7160 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:44:56,291 auth 13700 10368 Not a school-specific route
+DEBUG 2025-06-17 14:44:56,339 auth 13700 7160 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:44:56,341 auth 13700 10368 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:44:56,446 auth 13700 10368 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:44:56,446 auth 13700 10368 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:44:56,454 auth 13700 10368 Not a school-specific route
+DEBUG 2025-06-17 14:44:56,462 auth 13700 10368 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:44:56,473 auth 13700 10368 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:44:56,473 auth 13700 10368 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:44:56,475 auth 13700 10368 Not a school-specific route
+DEBUG 2025-06-17 14:44:56,487 auth 13700 10368 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:44:56,494 auth 13700 10368 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:44:56,494 auth 13700 10368 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:44:56,496 auth 13700 10368 Not a school-specific route
+DEBUG 2025-06-17 14:44:56,507 auth 13700 10368 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:44:56,552 auth 13700 7160 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:44:56,553 auth 13700 7160 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:44:56,555 auth 13700 7160 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:44:56,562 auth 13700 7160 Successfully authenticated user for school: SCH-99F78095
+INFO 2025-06-17 14:45:34,454 autoreload 13700 7316 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_analytics\views.py changed, reloading.
+INFO 2025-06-17 14:45:37,783 autoreload 5072 13392 Watching for file changes with StatReloader
+DEBUG 2025-06-17 14:49:56,704 auth 5072 17468 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:49:56,704 auth 5072 17468 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:49:56,704 auth 5072 17468 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:49:56,751 auth 5072 17468 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 14:54:56,607 auth 5072 13328 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 14:54:56,607 auth 5072 13328 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 14:54:56,607 auth 5072 13328 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 14:54:56,607 auth 5072 13328 Successfully authenticated user for school: SCH-99F78095
+INFO 2025-06-17 14:59:30,758 autoreload 5072 13392 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_analytics\views.py changed, reloading.
+INFO 2025-06-17 15:00:25,391 autoreload 14652 14364 Watching for file changes with StatReloader
+DEBUG 2025-06-17 15:04:30,055 auth 14652 16212 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:04:30,118 auth 14652 16212 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:04:30,165 auth 14652 16212 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:04:30,324 auth 14652 16212 Successfully authenticated user for school: SCH-99F78095
+INFO 2025-06-17 15:05:40,610 autoreload 14652 14364 C:\Users\Admin\educloud\backend\educloud_backend\apps\school_analytics\views.py changed, reloading.
+INFO 2025-06-17 15:06:06,213 autoreload 10432 6560 Watching for file changes with StatReloader
+DEBUG 2025-06-17 15:09:32,597 auth 10432 13100 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:09:32,738 auth 10432 13100 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:09:32,738 auth 10432 13100 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:09:33,236 auth 10432 13100 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:14:30,592 auth 10432 8636 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:14:30,593 auth 10432 8636 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:14:30,594 auth 10432 8636 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:14:30,707 auth 10432 8636 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:19:30,260 auth 10432 8636 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:19:30,260 auth 10432 8636 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:19:30,260 auth 10432 8636 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:19:30,276 auth 10432 8636 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:24:30,563 auth 10432 12468 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:24:30,563 auth 10432 12468 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:24:30,563 auth 10432 12468 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:24:30,563 auth 10432 12468 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:29:30,252 auth 10432 12468 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:29:30,252 auth 10432 12468 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:29:30,252 auth 10432 12468 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:29:30,267 auth 10432 12468 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:34:30,633 auth 10432 5064 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:34:30,633 auth 10432 5064 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:34:30,633 auth 10432 5064 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:34:30,633 auth 10432 5064 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:42:07,529 auth 10432 4140 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:42:07,654 auth 10432 4140 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:42:07,670 auth 10432 4140 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:42:07,686 auth 10432 4140 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:44:30,520 auth 10432 18396 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:44:30,533 auth 10432 18396 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:44:30,535 auth 10432 18396 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:44:30,548 auth 10432 18396 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:49:30,203 auth 10432 18396 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:49:30,204 auth 10432 18396 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:49:30,205 auth 10432 18396 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:49:30,212 auth 10432 18396 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:54:30,525 auth 10432 16656 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:54:30,526 auth 10432 16656 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:54:30,528 auth 10432 16656 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:54:30,542 auth 10432 16656 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 15:59:30,202 auth 10432 16656 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 15:59:30,203 auth 10432 16656 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 15:59:30,203 auth 10432 16656 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 15:59:30,213 auth 10432 16656 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:04:30,199 auth 10432 16656 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:04:30,200 auth 10432 16656 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:04:30,200 auth 10432 16656 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:04:30,232 auth 10432 16656 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:09:30,516 auth 10432 16996 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:09:30,517 auth 10432 16996 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:09:30,520 auth 10432 16996 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:09:30,676 auth 10432 16996 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:14:30,190 auth 10432 16996 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:14:30,191 auth 10432 16996 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:14:30,191 auth 10432 16996 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:14:30,197 auth 10432 16996 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:19:30,201 auth 10432 16996 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:19:30,201 auth 10432 16996 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:19:30,201 auth 10432 16996 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:19:30,217 auth 10432 16996 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:24:30,507 auth 10432 7544 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:24:30,508 auth 10432 7544 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:24:30,510 auth 10432 7544 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:24:30,523 auth 10432 7544 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:29:30,179 auth 10432 7544 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:29:30,180 auth 10432 7544 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:29:30,182 auth 10432 7544 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:29:30,191 auth 10432 7544 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:34:30,491 auth 10432 4492 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:34:30,492 auth 10432 4492 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:34:30,575 auth 10432 4492 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:34:30,591 auth 10432 4492 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:39:30,179 auth 10432 4492 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:39:30,180 auth 10432 4492 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:39:30,181 auth 10432 4492 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:39:30,188 auth 10432 4492 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:44:30,193 auth 10432 4492 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:44:30,194 auth 10432 4492 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:44:30,194 auth 10432 4492 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:44:30,201 auth 10432 4492 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:49:30,817 auth 10432 17416 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:49:30,817 auth 10432 17416 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:49:30,818 auth 10432 17416 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:49:30,926 auth 10432 17416 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:54:30,503 auth 10432 10556 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:54:30,507 auth 10432 10556 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:54:30,508 auth 10432 10556 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:54:30,515 auth 10432 10556 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 16:59:30,178 auth 10432 10556 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 16:59:30,178 auth 10432 10556 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 16:59:30,179 auth 10432 10556 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 16:59:30,188 auth 10432 10556 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:04:30,193 auth 10432 10556 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:04:30,217 auth 10432 10556 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:04:30,219 auth 10432 10556 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:04:30,226 auth 10432 10556 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:09:30,643 auth 10432 15708 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:09:30,643 auth 10432 15708 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:09:30,643 auth 10432 15708 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:09:30,659 auth 10432 15708 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:14:30,478 auth 10432 16612 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:14:30,478 auth 10432 16612 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:14:30,478 auth 10432 16612 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:14:31,194 auth 10432 16612 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:19:30,510 auth 10432 3932 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:19:30,510 auth 10432 3932 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:19:30,510 auth 10432 3932 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:19:30,556 auth 10432 3932 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:24:30,507 auth 10432 17344 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:24:30,507 auth 10432 17344 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:24:30,507 auth 10432 17344 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:24:30,523 auth 10432 17344 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:29:31,251 auth 10432 15888 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:29:31,251 auth 10432 15888 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:29:31,251 auth 10432 15888 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:29:31,454 auth 10432 15888 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:34:30,533 auth 10432 15656 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:34:30,533 auth 10432 15656 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:34:30,533 auth 10432 15656 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:34:30,554 auth 10432 15656 Successfully authenticated user for school: SCH-99F78095
+DEBUG 2025-06-17 17:39:30,521 auth 10432 7360 Received Authorization header: token 30bcd61afe1d3fffcfc674990e1d3425ccfe5820
+DEBUG 2025-06-17 17:39:30,521 auth 10432 7360 Processing token: 30bcd61afe...
+DEBUG 2025-06-17 17:39:30,568 auth 10432 7360 Requested school code from URL: SCH-99F78095
+DEBUG 2025-06-17 17:39:30,600 auth 10432 7360 Successfully authenticated user for school: SCH-99F78095

@@ -133,10 +133,22 @@ class SchoolAdminToken(models.Model):
         return self.key
 
 class SchoolAdmin(AbstractUser):
+    ROLE_CHOICES = [
+        ('ADMIN', 'Administrator'),
+        ('REGISTRAR', 'Registrar'),
+        ('FINANCIAL', 'Financial Officer'),
+        ('ACCOUNTANT', 'Accountant'),
+        ('VICE_PRINCIPAL', 'Vice Principal'),
+        ('PRINCIPAL', 'Principal'),
+        ('TEACHER', 'Teacher'),
+        ('PARENT', 'Parent'),
+        ('SECURITY', 'Security'),
+    ]
+
     school = models.ForeignKey(School, related_name='administrators', on_delete=models.CASCADE)
     full_name = models.CharField(max_length=255)
     phone_number = models.CharField(max_length=20)
-    role = models.CharField(max_length=100, default='School Admin')
+    role = models.CharField(max_length=20, choices=ROLE_CHOICES, default='ADMIN')
     is_school_admin = models.BooleanField(default=True)
     
     # Use email as username field
